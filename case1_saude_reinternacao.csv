@@ -1,0 +1,2501 @@
+Paciente_ID,Idade,Doença Crônica,Número de consultas nos últimos 6 meses,Dias de internação na última hospitalização,Uso de medicação contínua,Reinternação em até 30 dias
+P00001,69,Hipertensão,1,2,Sim,Sim
+P00002,32,Diabetes,3,3,Sim,Não
+P00003,89,Hipertensão,3,7,Sim,Não
+P00004,78,Insuficiência Cardíaca,4,2,Sim,Não
+P00005,38,Diabetes,3,5,Sim,Não
+P00006,41,Diabetes,2,6,Sim,Não
+P00007,20,Diabetes,2,5,Não,Não
+P00008,39,Insuficiência Cardíaca,2,7,Sim,Não
+P00009,70,Diabetes,4,2,Sim,Não
+P00010,19,Diabetes,6,4,Não,Sim
+P00011,47,Diabetes,1,4,Sim,Não
+P00012,55,Hipertensão,5,2,Sim,Não
+P00013,19,Diabetes,0,10,Sim,Não
+P00014,81,Hipertensão,4,3,Sim,Não
+P00015,77,Insuficiência Cardíaca,4,5,Sim,Não
+P00016,38,Diabetes,5,7,Não,Não
+P00017,50,Hipertensão,1,12,Sim,Não
+P00018,75,Diabetes,5,5,Não,Sim
+P00019,39,Insuficiência Cardíaca,2,4,Sim,Sim
+P00020,66,Hipertensão,2,5,Não,Sim
+P00021,76,Insuficiência Cardíaca,6,4,Sim,Não
+P00022,59,Diabetes,1,2,Sim,Não
+P00023,77,Diabetes,3,3,Sim,Não
+P00024,32,Diabetes,5,4,Não,Sim
+P00025,79,Diabetes,3,7,Não,Sim
+P00026,79,Diabetes,0,6,Sim,Não
+P00027,64,Diabetes,4,6,Sim,Sim
+P00028,79,Diabetes,2,7,Não,Não
+P00029,68,Diabetes,1,2,Não,Sim
+P00030,72,Hipertensão,6,6,Sim,Não
+P00031,81,Hipertensão,5,4,Sim,Não
+P00032,20,Diabetes,4,2,Sim,Não
+P00033,68,Diabetes,1,4,Sim,Não
+P00034,24,Diabetes,2,2,Não,Não
+P00035,38,Insuficiência Cardíaca,2,4,Sim,Não
+P00036,90,Diabetes,2,4,Sim,Não
+P00037,56,Hipertensão,2,4,Não,Não
+P00038,35,Insuficiência Cardíaca,0,3,Sim,Não
+P00039,21,Hipertensão,8,4,Não,Não
+P00040,77,Hipertensão,4,3,Sim,Não
+P00041,31,Hipertensão,2,3,Não,Não
+P00042,26,Insuficiência Cardíaca,3,4,Sim,Sim
+P00043,70,Hipertensão,4,5,Sim,Sim
+P00044,19,Hipertensão,3,6,Sim,Não
+P00045,77,Hipertensão,5,2,Sim,Não
+P00046,88,Hipertensão,6,2,Sim,Sim
+P00047,61,Hipertensão,9,9,Sim,Sim
+P00048,25,Diabetes,4,7,Sim,Não
+P00049,64,Diabetes,5,3,Sim,Sim
+P00050,52,Diabetes,3,5,Sim,Não
+P00051,53,Diabetes,2,6,Não,Sim
+P00052,67,Diabetes,1,5,Sim,Não
+P00053,21,Diabetes,3,8,Não,Sim
+P00054,19,Hipertensão,2,6,Sim,Não
+P00055,23,Diabetes,3,6,Não,Não
+P00056,71,Hipertensão,3,3,Sim,Não
+P00057,21,Diabetes,4,4,Sim,Não
+P00058,71,Diabetes,1,8,Sim,Não
+P00059,80,Hipertensão,4,2,Sim,Não
+P00060,35,Hipertensão,2,3,Sim,Não
+P00061,61,Diabetes,3,5,Sim,Sim
+P00062,51,Insuficiência Cardíaca,2,4,Sim,Sim
+P00063,79,Insuficiência Cardíaca,2,7,Sim,Não
+P00064,31,Diabetes,4,3,Sim,Não
+P00065,65,Diabetes,4,1,Sim,Não
+P00066,32,Insuficiência Cardíaca,7,2,Sim,Sim
+P00067,89,Hipertensão,0,6,Sim,Sim
+P00068,79,Hipertensão,2,2,Não,Não
+P00069,57,Hipertensão,1,3,Sim,Não
+P00070,70,Diabetes,5,3,Não,Sim
+P00071,41,Diabetes,2,6,Sim,Não
+P00072,43,Diabetes,0,3,Não,Não
+P00073,77,Hipertensão,1,3,Sim,Sim
+P00074,58,Hipertensão,4,7,Sim,Não
+P00075,46,Hipertensão,6,4,Sim,Não
+P00076,32,Diabetes,1,7,Sim,Não
+P00077,62,Diabetes,2,4,Sim,Não
+P00078,82,Hipertensão,4,3,Não,Não
+P00079,88,Hipertensão,5,2,Não,Sim
+P00080,26,Hipertensão,2,5,Sim,Não
+P00081,18,Diabetes,3,3,Não,Não
+P00082,25,Insuficiência Cardíaca,4,5,Não,Sim
+P00083,80,Diabetes,4,8,Sim,Não
+P00084,28,Insuficiência Cardíaca,2,4,Não,Não
+P00085,25,Diabetes,6,3,Sim,Sim
+P00086,52,Hipertensão,3,1,Sim,Não
+P00087,52,Diabetes,1,2,Sim,Não
+P00088,50,Insuficiência Cardíaca,4,5,Não,Sim
+P00089,22,Hipertensão,1,6,Sim,Não
+P00090,58,Diabetes,4,5,Sim,Sim
+P00091,45,Diabetes,2,6,Sim,Não
+P00092,24,Diabetes,2,4,Sim,Não
+P00093,90,Diabetes,2,3,Sim,Sim
+P00094,89,Insuficiência Cardíaca,3,3,Sim,Não
+P00095,29,Diabetes,6,6,Sim,Sim
+P00096,51,Hipertensão,2,3,Sim,Não
+P00097,50,Hipertensão,4,0,Sim,Não
+P00098,65,Hipertensão,1,2,Não,Não
+P00099,40,Diabetes,0,4,Não,Não
+P00100,79,Diabetes,1,5,Sim,Não
+P00101,54,Hipertensão,3,2,Sim,Não
+P00102,61,Insuficiência Cardíaca,3,7,Não,Sim
+P00103,52,Diabetes,3,0,Sim,Não
+P00104,82,Diabetes,4,11,Sim,Não
+P00105,64,Hipertensão,4,5,Sim,Não
+P00106,20,Insuficiência Cardíaca,3,4,Sim,Não
+P00107,18,Diabetes,4,7,Sim,Não
+P00108,22,Diabetes,3,5,Sim,Não
+P00109,31,Insuficiência Cardíaca,5,1,Sim,Sim
+P00110,44,Diabetes,4,7,Sim,Sim
+P00111,26,Diabetes,1,3,Não,Sim
+P00112,32,Hipertensão,1,4,Sim,Não
+P00113,59,Insuficiência Cardíaca,1,3,Sim,Não
+P00114,68,Diabetes,2,6,Sim,Sim
+P00115,80,Hipertensão,2,3,Sim,Sim
+P00116,69,Hipertensão,4,6,Sim,Não
+P00117,21,Hipertensão,2,3,Sim,Não
+P00118,40,Hipertensão,3,3,Sim,Sim
+P00119,32,Hipertensão,4,2,Sim,Não
+P00120,60,Diabetes,4,5,Sim,Não
+P00121,46,Hipertensão,4,2,Não,Sim
+P00122,53,Hipertensão,5,3,Não,Sim
+P00123,30,Hipertensão,3,4,Não,Sim
+P00124,49,Insuficiência Cardíaca,6,1,Não,Sim
+P00125,88,Diabetes,2,3,Sim,Sim
+P00126,76,Hipertensão,4,1,Não,Não
+P00127,45,Hipertensão,3,2,Sim,Não
+P00128,83,Diabetes,2,4,Sim,Não
+P00129,59,Hipertensão,5,5,Sim,Não
+P00130,62,Diabetes,2,8,Não,Sim
+P00131,79,Diabetes,1,3,Sim,Não
+P00132,74,Diabetes,2,6,Sim,Não
+P00133,23,Diabetes,2,10,Não,Não
+P00134,45,Diabetes,6,4,Sim,Não
+P00135,45,Hipertensão,2,3,Sim,Sim
+P00136,61,Diabetes,3,3,Sim,Não
+P00137,47,Hipertensão,3,6,Não,Não
+P00138,79,Hipertensão,4,3,Não,Sim
+P00139,79,Insuficiência Cardíaca,2,1,Não,Sim
+P00140,18,Hipertensão,2,2,Sim,Não
+P00141,44,Diabetes,3,2,Sim,Não
+P00142,79,Hipertensão,4,4,Sim,Sim
+P00143,20,Diabetes,5,1,Sim,Não
+P00144,87,Hipertensão,6,3,Sim,Não
+P00145,89,Insuficiência Cardíaca,0,4,Sim,Sim
+P00146,44,Diabetes,3,8,Não,Sim
+P00147,26,Diabetes,2,3,Não,Não
+P00148,79,Hipertensão,5,4,Sim,Não
+P00149,54,Insuficiência Cardíaca,4,3,Sim,Sim
+P00150,68,Hipertensão,1,11,Sim,Sim
+P00151,61,Diabetes,1,3,Sim,Não
+P00152,41,Hipertensão,2,4,Sim,Não
+P00153,76,Diabetes,2,2,Sim,Não
+P00154,49,Hipertensão,2,1,Não,Sim
+P00155,69,Insuficiência Cardíaca,3,0,Sim,Não
+P00156,79,Hipertensão,0,4,Sim,Não
+P00157,75,Insuficiência Cardíaca,0,5,Sim,Não
+P00158,69,Diabetes,3,4,Sim,Não
+P00159,29,Hipertensão,2,3,Sim,Não
+P00160,56,Hipertensão,5,5,Não,Sim
+P00161,19,Diabetes,4,2,Sim,Não
+P00162,20,Insuficiência Cardíaca,1,7,Não,Não
+P00163,73,Diabetes,4,3,Sim,Sim
+P00164,76,Hipertensão,6,7,Sim,Sim
+P00165,19,Hipertensão,2,2,Não,Não
+P00166,19,Hipertensão,1,7,Sim,Não
+P00167,71,Diabetes,4,5,Sim,Sim
+P00168,18,Hipertensão,6,8,Sim,Não
+P00169,36,Hipertensão,2,4,Sim,Não
+P00170,19,Insuficiência Cardíaca,5,3,Sim,Sim
+P00171,70,Diabetes,2,4,Não,Sim
+P00172,61,Diabetes,1,3,Não,Não
+P00173,49,Hipertensão,1,7,Sim,Não
+P00174,87,Diabetes,1,2,Não,Sim
+P00175,49,Hipertensão,1,2,Não,Não
+P00176,85,Hipertensão,2,0,Sim,Não
+P00177,72,Insuficiência Cardíaca,2,3,Sim,Sim
+P00178,73,Hipertensão,1,4,Sim,Não
+P00179,34,Hipertensão,1,1,Sim,Não
+P00180,55,Diabetes,3,4,Sim,Não
+P00181,41,Diabetes,3,9,Sim,Não
+P00182,86,Diabetes,1,7,Não,Não
+P00183,87,Diabetes,3,4,Sim,Não
+P00184,28,Hipertensão,4,4,Não,Não
+P00185,33,Hipertensão,3,3,Sim,Não
+P00186,90,Hipertensão,3,4,Sim,Sim
+P00187,76,Hipertensão,5,4,Sim,Não
+P00188,87,Insuficiência Cardíaca,2,4,Não,Sim
+P00189,20,Hipertensão,1,6,Sim,Não
+P00190,37,Hipertensão,1,4,Sim,Não
+P00191,76,Hipertensão,3,6,Sim,Não
+P00192,53,Diabetes,2,4,Sim,Não
+P00193,36,Diabetes,6,4,Sim,Não
+P00194,84,Diabetes,0,3,Sim,Não
+P00195,36,Insuficiência Cardíaca,3,5,Não,Não
+P00196,37,Hipertensão,4,3,Sim,Não
+P00197,88,Diabetes,5,4,Sim,Não
+P00198,69,Hipertensão,1,3,Não,Sim
+P00199,50,Hipertensão,2,3,Sim,Não
+P00200,57,Diabetes,2,3,Não,Não
+P00201,56,Diabetes,2,5,Sim,Não
+P00202,18,Insuficiência Cardíaca,4,6,Não,Sim
+P00203,28,Diabetes,3,3,Sim,Não
+P00204,74,Diabetes,2,3,Sim,Não
+P00205,67,Hipertensão,1,5,Sim,Sim
+P00206,40,Insuficiência Cardíaca,2,5,Sim,Não
+P00207,48,Hipertensão,4,3,Sim,Sim
+P00208,59,Diabetes,3,7,Não,Sim
+P00209,24,Diabetes,4,8,Sim,Não
+P00210,33,Hipertensão,2,4,Não,Não
+P00211,77,Hipertensão,3,2,Sim,Não
+P00212,19,Hipertensão,0,5,Sim,Não
+P00213,18,Diabetes,3,4,Sim,Não
+P00214,65,Insuficiência Cardíaca,3,6,Sim,Não
+P00215,29,Diabetes,3,6,Sim,Não
+P00216,86,Diabetes,1,2,Não,Não
+P00217,54,Diabetes,3,5,Sim,Não
+P00218,49,Diabetes,1,7,Sim,Não
+P00219,26,Hipertensão,4,5,Sim,Não
+P00220,36,Hipertensão,0,3,Sim,Sim
+P00221,65,Diabetes,4,6,Não,Sim
+P00222,20,Hipertensão,3,3,Sim,Não
+P00223,37,Diabetes,2,4,Sim,Sim
+P00224,41,Hipertensão,2,1,Sim,Não
+P00225,71,Insuficiência Cardíaca,4,4,Sim,Não
+P00226,50,Diabetes,3,2,Sim,Sim
+P00227,41,Hipertensão,3,5,Sim,Não
+P00228,89,Diabetes,3,2,Não,Não
+P00229,53,Diabetes,7,3,Sim,Sim
+P00230,55,Diabetes,6,5,Sim,Sim
+P00231,42,Hipertensão,2,6,Não,Sim
+P00232,35,Hipertensão,0,3,Sim,Não
+P00233,83,Diabetes,3,2,Não,Não
+P00234,71,Hipertensão,4,6,Sim,Não
+P00235,52,Hipertensão,1,3,Sim,Não
+P00236,78,Hipertensão,1,4,Sim,Não
+P00237,58,Hipertensão,6,2,Sim,Não
+P00238,50,Hipertensão,8,3,Não,Sim
+P00239,85,Diabetes,1,3,Sim,Não
+P00240,50,Diabetes,2,3,Não,Não
+P00241,31,Insuficiência Cardíaca,4,1,Não,Sim
+P00242,38,Diabetes,4,5,Sim,Não
+P00243,65,Insuficiência Cardíaca,4,2,Não,Sim
+P00244,37,Hipertensão,2,2,Sim,Não
+P00245,25,Diabetes,5,7,Sim,Sim
+P00246,24,Diabetes,5,2,Sim,Sim
+P00247,84,Diabetes,2,1,Sim,Não
+P00248,34,Insuficiência Cardíaca,2,3,Não,Não
+P00249,50,Diabetes,6,2,Não,Não
+P00250,65,Diabetes,7,2,Não,Não
+P00251,76,Diabetes,2,5,Não,Sim
+P00252,39,Diabetes,3,4,Sim,Não
+P00253,47,Hipertensão,2,4,Sim,Não
+P00254,55,Diabetes,6,4,Sim,Sim
+P00255,68,Hipertensão,1,6,Não,Não
+P00256,71,Diabetes,4,4,Sim,Não
+P00257,25,Diabetes,1,4,Não,Não
+P00258,44,Hipertensão,1,9,Não,Não
+P00259,44,Diabetes,3,1,Sim,Sim
+P00260,38,Insuficiência Cardíaca,4,6,Sim,Não
+P00261,47,Hipertensão,5,4,Sim,Não
+P00262,45,Diabetes,2,4,Não,Não
+P00263,81,Hipertensão,4,4,Não,Não
+P00264,86,Diabetes,3,2,Sim,Não
+P00265,78,Diabetes,3,7,Não,Sim
+P00266,65,Insuficiência Cardíaca,1,2,Sim,Não
+P00267,36,Hipertensão,4,2,Sim,Não
+P00268,21,Insuficiência Cardíaca,1,7,Sim,Não
+P00269,52,Hipertensão,4,1,Sim,Não
+P00270,81,Hipertensão,1,5,Sim,Não
+P00271,66,Diabetes,1,7,Não,Não
+P00272,34,Diabetes,2,2,Não,Não
+P00273,61,Hipertensão,0,6,Sim,Sim
+P00274,47,Diabetes,1,1,Não,Não
+P00275,63,Hipertensão,2,4,Sim,Não
+P00276,23,Hipertensão,2,8,Não,Não
+P00277,54,Diabetes,0,3,Sim,Não
+P00278,41,Hipertensão,3,3,Sim,Não
+P00279,63,Hipertensão,3,7,Sim,Não
+P00280,70,Diabetes,3,5,Não,Não
+P00281,77,Hipertensão,1,3,Sim,Não
+P00282,80,Hipertensão,1,6,Sim,Não
+P00283,49,Diabetes,6,4,Sim,Não
+P00284,50,Hipertensão,0,3,Sim,Não
+P00285,84,Insuficiência Cardíaca,2,5,Sim,Sim
+P00286,35,Diabetes,4,3,Sim,Não
+P00287,42,Hipertensão,5,3,Sim,Não
+P00288,71,Diabetes,3,4,Sim,Não
+P00289,75,Hipertensão,2,5,Sim,Não
+P00290,84,Hipertensão,2,0,Sim,Não
+P00291,63,Diabetes,4,6,Sim,Não
+P00292,41,Diabetes,4,5,Sim,Não
+P00293,49,Hipertensão,1,4,Sim,Não
+P00294,64,Hipertensão,5,4,Sim,Sim
+P00295,40,Hipertensão,1,3,Sim,Sim
+P00296,83,Diabetes,4,6,Sim,Sim
+P00297,44,Insuficiência Cardíaca,2,4,Sim,Não
+P00298,19,Hipertensão,5,3,Sim,Não
+P00299,34,Insuficiência Cardíaca,2,4,Sim,Não
+P00300,50,Diabetes,6,2,Sim,Não
+P00301,26,Hipertensão,2,5,Sim,Sim
+P00302,60,Hipertensão,1,3,Sim,Não
+P00303,65,Diabetes,3,7,Sim,Não
+P00304,56,Hipertensão,4,4,Sim,Sim
+P00305,59,Diabetes,3,7,Não,Não
+P00306,43,Hipertensão,5,4,Sim,Não
+P00307,67,Hipertensão,4,4,Sim,Sim
+P00308,42,Diabetes,3,4,Sim,Sim
+P00309,41,Hipertensão,1,6,Sim,Não
+P00310,30,Hipertensão,3,7,Sim,Não
+P00311,77,Diabetes,1,11,Sim,Não
+P00312,24,Insuficiência Cardíaca,1,5,Sim,Não
+P00313,74,Insuficiência Cardíaca,4,3,Não,Sim
+P00314,53,Hipertensão,3,4,Sim,Sim
+P00315,62,Diabetes,3,3,Sim,Sim
+P00316,37,Hipertensão,2,7,Sim,Não
+P00317,82,Hipertensão,6,1,Sim,Não
+P00318,25,Diabetes,3,1,Sim,Não
+P00319,33,Hipertensão,1,5,Sim,Não
+P00320,31,Hipertensão,4,4,Sim,Sim
+P00321,32,Hipertensão,0,3,Sim,Não
+P00322,83,Diabetes,5,5,Sim,Não
+P00323,49,Hipertensão,5,0,Sim,Não
+P00324,80,Insuficiência Cardíaca,1,6,Não,Sim
+P00325,68,Diabetes,1,0,Não,Não
+P00326,42,Hipertensão,2,5,Não,Não
+P00327,75,Insuficiência Cardíaca,4,3,Sim,Não
+P00328,80,Hipertensão,3,3,Sim,Sim
+P00329,79,Diabetes,4,5,Sim,Sim
+P00330,39,Hipertensão,4,0,Sim,Não
+P00331,75,Hipertensão,3,4,Sim,Sim
+P00332,75,Hipertensão,1,2,Sim,Não
+P00333,66,Hipertensão,3,2,Sim,Sim
+P00334,69,Insuficiência Cardíaca,2,4,Sim,Sim
+P00335,59,Diabetes,3,4,Sim,Não
+P00336,87,Diabetes,4,3,Sim,Sim
+P00337,32,Hipertensão,4,6,Sim,Sim
+P00338,71,Diabetes,4,4,Sim,Sim
+P00339,77,Diabetes,0,3,Sim,Não
+P00340,25,Diabetes,0,6,Sim,Não
+P00341,70,Diabetes,7,5,Sim,Não
+P00342,77,Diabetes,3,2,Não,Não
+P00343,22,Insuficiência Cardíaca,4,7,Sim,Não
+P00344,85,Diabetes,4,5,Sim,Não
+P00345,23,Hipertensão,3,4,Sim,Não
+P00346,64,Hipertensão,5,4,Não,Sim
+P00347,72,Insuficiência Cardíaca,1,6,Sim,Não
+P00348,57,Diabetes,4,2,Sim,Não
+P00349,69,Insuficiência Cardíaca,1,6,Sim,Não
+P00350,33,Hipertensão,4,4,Não,Sim
+P00351,30,Hipertensão,4,1,Sim,Não
+P00352,47,Hipertensão,1,7,Sim,Não
+P00353,36,Hipertensão,2,0,Sim,Não
+P00354,34,Diabetes,3,4,Sim,Não
+P00355,80,Hipertensão,2,3,Sim,Não
+P00356,36,Hipertensão,4,6,Sim,Sim
+P00357,75,Hipertensão,2,3,Não,Não
+P00358,72,Insuficiência Cardíaca,8,4,Sim,Não
+P00359,79,Diabetes,4,4,Sim,Não
+P00360,40,Insuficiência Cardíaca,4,4,Sim,Não
+P00361,26,Diabetes,1,1,Sim,Sim
+P00362,29,Diabetes,3,4,Sim,Sim
+P00363,18,Diabetes,3,7,Sim,Sim
+P00364,75,Diabetes,3,1,Sim,Sim
+P00365,18,Hipertensão,7,5,Sim,Não
+P00366,51,Diabetes,3,6,Não,Sim
+P00367,65,Diabetes,2,2,Não,Sim
+P00368,18,Insuficiência Cardíaca,1,4,Sim,Não
+P00369,33,Hipertensão,3,0,Sim,Não
+P00370,78,Hipertensão,3,3,Não,Sim
+P00371,81,Insuficiência Cardíaca,0,0,Sim,Não
+P00372,80,Hipertensão,3,4,Sim,Sim
+P00373,86,Diabetes,5,5,Sim,Não
+P00374,39,Diabetes,4,3,Sim,Não
+P00375,84,Hipertensão,4,3,Não,Não
+P00376,43,Diabetes,5,2,Não,Sim
+P00377,33,Hipertensão,2,9,Sim,Não
+P00378,68,Diabetes,3,4,Sim,Não
+P00379,74,Diabetes,3,1,Sim,Não
+P00380,46,Hipertensão,4,3,Sim,Não
+P00381,86,Hipertensão,1,3,Sim,Sim
+P00382,64,Hipertensão,2,4,Não,Não
+P00383,79,Hipertensão,3,4,Sim,Não
+P00384,86,Diabetes,2,3,Sim,Não
+P00385,33,Diabetes,3,4,Sim,Não
+P00386,65,Insuficiência Cardíaca,5,3,Não,Sim
+P00387,56,Hipertensão,1,8,Sim,Não
+P00388,50,Diabetes,1,5,Sim,Não
+P00389,40,Hipertensão,1,7,Sim,Não
+P00390,27,Diabetes,1,3,Sim,Não
+P00391,86,Hipertensão,1,8,Sim,Não
+P00392,51,Diabetes,1,9,Não,Não
+P00393,69,Hipertensão,3,5,Sim,Não
+P00394,27,Hipertensão,2,6,Sim,Não
+P00395,36,Diabetes,5,2,Não,Não
+P00396,75,Insuficiência Cardíaca,5,1,Não,Sim
+P00397,18,Diabetes,2,3,Sim,Não
+P00398,86,Diabetes,2,5,Sim,Não
+P00399,21,Diabetes,4,6,Não,Não
+P00400,33,Diabetes,0,6,Sim,Não
+P00401,41,Diabetes,2,5,Sim,Sim
+P00402,19,Hipertensão,3,6,Sim,Sim
+P00403,49,Hipertensão,3,3,Sim,Não
+P00404,41,Hipertensão,3,4,Sim,Não
+P00405,29,Diabetes,1,3,Sim,Não
+P00406,67,Diabetes,3,7,Sim,Não
+P00407,52,Diabetes,1,4,Sim,Não
+P00408,50,Diabetes,2,6,Não,Sim
+P00409,50,Hipertensão,2,5,Não,Não
+P00410,78,Diabetes,1,3,Não,Sim
+P00411,68,Hipertensão,6,5,Sim,Não
+P00412,60,Insuficiência Cardíaca,2,3,Sim,Não
+P00413,29,Hipertensão,7,4,Não,Não
+P00414,84,Hipertensão,8,3,Não,Sim
+P00415,82,Hipertensão,2,2,Não,Sim
+P00416,50,Hipertensão,2,3,Sim,Não
+P00417,57,Hipertensão,6,4,Sim,Sim
+P00418,60,Hipertensão,3,8,Sim,Não
+P00419,61,Diabetes,1,3,Sim,Não
+P00420,46,Diabetes,3,4,Sim,Não
+P00421,30,Diabetes,0,2,Sim,Não
+P00422,29,Hipertensão,6,7,Sim,Não
+P00423,63,Diabetes,2,3,Não,Não
+P00424,19,Insuficiência Cardíaca,1,3,Sim,Sim
+P00425,52,Hipertensão,3,5,Sim,Não
+P00426,25,Diabetes,3,5,Sim,Não
+P00427,43,Diabetes,5,3,Não,Não
+P00428,51,Insuficiência Cardíaca,1,6,Sim,Não
+P00429,24,Hipertensão,2,2,Não,Não
+P00430,85,Hipertensão,3,6,Sim,Não
+P00431,75,Diabetes,6,7,Sim,Não
+P00432,46,Diabetes,2,8,Sim,Não
+P00433,53,Diabetes,3,5,Não,Não
+P00434,38,Diabetes,4,5,Sim,Não
+P00435,53,Hipertensão,5,3,Sim,Sim
+P00436,27,Hipertensão,1,2,Sim,Não
+P00437,90,Hipertensão,4,1,Sim,Sim
+P00438,41,Insuficiência Cardíaca,4,8,Não,Não
+P00439,81,Hipertensão,1,4,Sim,Sim
+P00440,66,Hipertensão,6,3,Sim,Sim
+P00441,53,Diabetes,5,3,Sim,Sim
+P00442,41,Insuficiência Cardíaca,5,5,Sim,Não
+P00443,40,Diabetes,6,10,Sim,Sim
+P00444,79,Insuficiência Cardíaca,3,4,Sim,Sim
+P00445,54,Hipertensão,1,4,Sim,Não
+P00446,29,Diabetes,1,5,Sim,Não
+P00447,72,Hipertensão,6,3,Não,Não
+P00448,30,Insuficiência Cardíaca,2,5,Sim,Não
+P00449,40,Hipertensão,4,3,Sim,Não
+P00450,47,Insuficiência Cardíaca,3,2,Sim,Não
+P00451,34,Insuficiência Cardíaca,7,3,Sim,Não
+P00452,79,Diabetes,2,1,Sim,Não
+P00453,30,Diabetes,4,6,Sim,Não
+P00454,76,Insuficiência Cardíaca,0,2,Não,Sim
+P00455,36,Hipertensão,1,2,Não,Sim
+P00456,66,Diabetes,2,4,Não,Não
+P00457,29,Diabetes,7,8,Sim,Sim
+P00458,78,Hipertensão,5,3,Sim,Não
+P00459,36,Insuficiência Cardíaca,3,6,Não,Sim
+P00460,26,Hipertensão,7,2,Sim,Não
+P00461,88,Hipertensão,2,6,Sim,Não
+P00462,45,Diabetes,3,4,Sim,Sim
+P00463,69,Diabetes,1,3,Sim,Não
+P00464,33,Insuficiência Cardíaca,3,5,Sim,Sim
+P00465,86,Diabetes,3,3,Não,Não
+P00466,29,Diabetes,4,1,Sim,Não
+P00467,42,Diabetes,3,1,Sim,Não
+P00468,69,Hipertensão,4,4,Sim,Sim
+P00469,70,Insuficiência Cardíaca,2,1,Sim,Não
+P00470,40,Diabetes,4,7,Sim,Sim
+P00471,33,Hipertensão,6,5,Sim,Não
+P00472,74,Hipertensão,3,0,Sim,Sim
+P00473,56,Insuficiência Cardíaca,4,4,Sim,Não
+P00474,70,Diabetes,1,6,Sim,Não
+P00475,59,Hipertensão,6,1,Sim,Não
+P00476,75,Diabetes,4,2,Sim,Sim
+P00477,56,Insuficiência Cardíaca,2,2,Sim,Não
+P00478,31,Hipertensão,0,1,Sim,Não
+P00479,22,Diabetes,2,1,Sim,Não
+P00480,52,Hipertensão,4,4,Sim,Sim
+P00481,35,Hipertensão,3,2,Sim,Sim
+P00482,26,Diabetes,4,4,Sim,Sim
+P00483,75,Insuficiência Cardíaca,4,6,Não,Sim
+P00484,34,Diabetes,6,2,Sim,Sim
+P00485,24,Hipertensão,3,3,Sim,Sim
+P00486,63,Diabetes,2,3,Não,Não
+P00487,30,Hipertensão,5,3,Sim,Não
+P00488,57,Diabetes,5,1,Sim,Não
+P00489,59,Insuficiência Cardíaca,4,3,Sim,Sim
+P00490,26,Hipertensão,2,4,Sim,Não
+P00491,67,Hipertensão,1,2,Sim,Não
+P00492,44,Hipertensão,5,1,Sim,Não
+P00493,83,Hipertensão,6,3,Sim,Não
+P00494,22,Diabetes,1,6,Sim,Não
+P00495,46,Diabetes,6,6,Sim,Não
+P00496,54,Insuficiência Cardíaca,3,3,Sim,Não
+P00497,55,Diabetes,4,3,Sim,Não
+P00498,25,Hipertensão,3,2,Sim,Não
+P00499,82,Insuficiência Cardíaca,3,1,Sim,Sim
+P00500,34,Diabetes,4,2,Sim,Não
+P00501,88,Hipertensão,1,1,Sim,Não
+P00502,62,Hipertensão,5,4,Sim,Não
+P00503,21,Hipertensão,2,6,Sim,Não
+P00504,53,Diabetes,4,2,Sim,Sim
+P00505,87,Diabetes,5,2,Sim,Não
+P00506,48,Hipertensão,3,4,Não,Não
+P00507,36,Hipertensão,3,3,Não,Sim
+P00508,78,Hipertensão,4,4,Não,Sim
+P00509,71,Hipertensão,2,4,Sim,Sim
+P00510,56,Diabetes,4,2,Não,Não
+P00511,36,Hipertensão,0,3,Sim,Não
+P00512,56,Diabetes,0,3,Sim,Não
+P00513,84,Insuficiência Cardíaca,4,5,Não,Sim
+P00514,62,Hipertensão,2,4,Não,Sim
+P00515,30,Hipertensão,2,7,Sim,Não
+P00516,75,Insuficiência Cardíaca,1,2,Não,Sim
+P00517,37,Diabetes,2,6,Sim,Não
+P00518,89,Hipertensão,5,5,Sim,Sim
+P00519,78,Diabetes,2,2,Sim,Não
+P00520,56,Insuficiência Cardíaca,3,5,Não,Não
+P00521,18,Diabetes,0,3,Sim,Sim
+P00522,20,Hipertensão,2,2,Não,Não
+P00523,79,Insuficiência Cardíaca,3,4,Sim,Sim
+P00524,80,Diabetes,4,3,Não,Sim
+P00525,42,Diabetes,6,7,Sim,Não
+P00526,73,Hipertensão,4,5,Sim,Não
+P00527,50,Hipertensão,3,0,Não,Sim
+P00528,55,Diabetes,2,6,Sim,Não
+P00529,23,Diabetes,5,3,Sim,Não
+P00530,75,Diabetes,3,4,Sim,Não
+P00531,61,Insuficiência Cardíaca,3,1,Sim,Sim
+P00532,62,Hipertensão,2,6,Sim,Sim
+P00533,49,Diabetes,3,4,Sim,Não
+P00534,62,Diabetes,6,7,Sim,Sim
+P00535,78,Diabetes,1,2,Não,Sim
+P00536,64,Diabetes,2,2,Não,Sim
+P00537,38,Diabetes,2,1,Sim,Sim
+P00538,53,Diabetes,2,2,Sim,Não
+P00539,36,Diabetes,7,5,Não,Sim
+P00540,37,Hipertensão,1,1,Sim,Sim
+P00541,74,Diabetes,3,2,Não,Não
+P00542,35,Hipertensão,8,2,Sim,Não
+P00543,64,Hipertensão,1,4,Sim,Não
+P00544,66,Hipertensão,2,2,Sim,Não
+P00545,31,Hipertensão,4,3,Sim,Não
+P00546,32,Hipertensão,1,2,Não,Não
+P00547,48,Insuficiência Cardíaca,4,6,Sim,Não
+P00548,18,Hipertensão,4,4,Sim,Sim
+P00549,71,Hipertensão,4,3,Sim,Não
+P00550,20,Hipertensão,2,5,Sim,Não
+P00551,33,Hipertensão,5,3,Sim,Não
+P00552,74,Diabetes,3,3,Sim,Sim
+P00553,29,Diabetes,3,7,Sim,Sim
+P00554,33,Diabetes,3,7,Sim,Não
+P00555,89,Insuficiência Cardíaca,2,4,Sim,Não
+P00556,41,Hipertensão,3,0,Sim,Não
+P00557,45,Insuficiência Cardíaca,0,5,Sim,Não
+P00558,25,Hipertensão,1,5,Não,Não
+P00559,53,Hipertensão,1,4,Sim,Sim
+P00560,25,Diabetes,3,3,Sim,Não
+P00561,75,Hipertensão,5,3,Sim,Não
+P00562,77,Hipertensão,1,6,Sim,Sim
+P00563,67,Insuficiência Cardíaca,7,5,Não,Sim
+P00564,45,Diabetes,3,2,Sim,Sim
+P00565,58,Hipertensão,2,0,Não,Não
+P00566,81,Hipertensão,6,0,Sim,Não
+P00567,44,Hipertensão,5,9,Sim,Não
+P00568,80,Hipertensão,4,4,Não,Sim
+P00569,34,Hipertensão,3,3,Sim,Não
+P00570,90,Diabetes,1,4,Sim,Sim
+P00571,50,Hipertensão,4,3,Sim,Não
+P00572,46,Hipertensão,1,7,Não,Sim
+P00573,30,Insuficiência Cardíaca,1,5,Sim,Não
+P00574,63,Hipertensão,5,5,Sim,Sim
+P00575,52,Diabetes,2,3,Sim,Não
+P00576,23,Diabetes,4,1,Não,Sim
+P00577,86,Insuficiência Cardíaca,6,4,Sim,Sim
+P00578,64,Hipertensão,3,1,Não,Não
+P00579,42,Insuficiência Cardíaca,1,3,Não,Sim
+P00580,83,Diabetes,3,7,Sim,Sim
+P00581,27,Hipertensão,2,5,Sim,Não
+P00582,73,Hipertensão,4,1,Sim,Sim
+P00583,47,Insuficiência Cardíaca,2,4,Sim,Não
+P00584,22,Diabetes,5,6,Sim,Não
+P00585,50,Hipertensão,3,8,Sim,Sim
+P00586,82,Hipertensão,4,6,Sim,Não
+P00587,35,Diabetes,3,7,Não,Sim
+P00588,66,Hipertensão,3,2,Sim,Sim
+P00589,28,Hipertensão,0,4,Não,Não
+P00590,43,Insuficiência Cardíaca,3,5,Sim,Sim
+P00591,80,Hipertensão,0,5,Sim,Não
+P00592,76,Diabetes,3,3,Sim,Não
+P00593,44,Diabetes,5,2,Sim,Sim
+P00594,66,Diabetes,2,3,Sim,Não
+P00595,50,Diabetes,0,2,Sim,Não
+P00596,18,Hipertensão,5,2,Sim,Não
+P00597,38,Diabetes,3,2,Não,Sim
+P00598,72,Insuficiência Cardíaca,2,3,Sim,Não
+P00599,23,Insuficiência Cardíaca,3,3,Não,Sim
+P00600,86,Hipertensão,2,2,Não,Sim
+P00601,22,Insuficiência Cardíaca,3,5,Sim,Não
+P00602,20,Hipertensão,4,9,Sim,Sim
+P00603,70,Hipertensão,1,5,Sim,Sim
+P00604,40,Diabetes,3,5,Sim,Não
+P00605,70,Hipertensão,2,1,Sim,Não
+P00606,54,Hipertensão,2,7,Não,Sim
+P00607,34,Insuficiência Cardíaca,0,4,Sim,Sim
+P00608,90,Hipertensão,3,3,Não,Não
+P00609,18,Insuficiência Cardíaca,3,5,Sim,Não
+P00610,68,Hipertensão,2,4,Sim,Não
+P00611,62,Diabetes,1,3,Não,Não
+P00612,21,Insuficiência Cardíaca,3,4,Sim,Não
+P00613,79,Hipertensão,4,2,Não,Sim
+P00614,82,Diabetes,4,6,Sim,Sim
+P00615,49,Hipertensão,5,4,Não,Não
+P00616,51,Diabetes,5,8,Não,Sim
+P00617,89,Hipertensão,2,4,Sim,Não
+P00618,56,Hipertensão,3,0,Não,Não
+P00619,43,Diabetes,3,8,Sim,Sim
+P00620,51,Insuficiência Cardíaca,2,3,Sim,Não
+P00621,71,Hipertensão,2,4,Sim,Não
+P00622,20,Diabetes,4,6,Sim,Não
+P00623,67,Hipertensão,1,5,Sim,Não
+P00624,29,Insuficiência Cardíaca,6,4,Não,Não
+P00625,82,Diabetes,1,4,Sim,Não
+P00626,71,Diabetes,4,2,Não,Não
+P00627,22,Diabetes,2,4,Não,Não
+P00628,74,Diabetes,4,7,Sim,Não
+P00629,34,Hipertensão,3,6,Não,Sim
+P00630,64,Hipertensão,5,5,Não,Não
+P00631,40,Diabetes,5,3,Sim,Não
+P00632,31,Hipertensão,1,4,Sim,Não
+P00633,83,Diabetes,4,6,Sim,Não
+P00634,68,Insuficiência Cardíaca,2,3,Sim,Não
+P00635,55,Insuficiência Cardíaca,3,5,Sim,Não
+P00636,81,Diabetes,1,3,Sim,Sim
+P00637,55,Insuficiência Cardíaca,4,9,Sim,Não
+P00638,67,Hipertensão,3,3,Não,Não
+P00639,47,Diabetes,4,0,Sim,Não
+P00640,68,Diabetes,4,1,Sim,Não
+P00641,80,Hipertensão,4,1,Sim,Não
+P00642,69,Hipertensão,3,5,Sim,Sim
+P00643,55,Insuficiência Cardíaca,1,4,Sim,Sim
+P00644,47,Hipertensão,5,2,Sim,Não
+P00645,68,Insuficiência Cardíaca,5,9,Não,Sim
+P00646,22,Hipertensão,4,3,Sim,Não
+P00647,46,Hipertensão,5,3,Sim,Não
+P00648,21,Hipertensão,3,3,Sim,Não
+P00649,27,Diabetes,2,5,Não,Sim
+P00650,73,Hipertensão,5,3,Sim,Não
+P00651,34,Hipertensão,6,3,Sim,Não
+P00652,34,Diabetes,3,4,Não,Sim
+P00653,86,Hipertensão,0,1,Sim,Não
+P00654,51,Diabetes,3,6,Sim,Não
+P00655,23,Hipertensão,1,6,Sim,Não
+P00656,70,Hipertensão,0,8,Sim,Não
+P00657,83,Diabetes,1,1,Sim,Não
+P00658,60,Diabetes,4,2,Sim,Sim
+P00659,40,Diabetes,2,2,Não,Não
+P00660,72,Insuficiência Cardíaca,8,3,Sim,Sim
+P00661,33,Diabetes,7,1,Sim,Sim
+P00662,25,Insuficiência Cardíaca,3,3,Não,Sim
+P00663,21,Diabetes,3,3,Não,Sim
+P00664,21,Insuficiência Cardíaca,3,2,Não,Não
+P00665,73,Insuficiência Cardíaca,0,2,Sim,Não
+P00666,42,Hipertensão,3,0,Sim,Não
+P00667,84,Hipertensão,3,2,Não,Não
+P00668,84,Hipertensão,4,6,Sim,Não
+P00669,44,Hipertensão,1,4,Sim,Não
+P00670,49,Diabetes,3,5,Sim,Não
+P00671,67,Diabetes,4,5,Sim,Não
+P00672,78,Diabetes,4,5,Sim,Não
+P00673,68,Diabetes,2,2,Não,Não
+P00674,36,Diabetes,5,9,Sim,Não
+P00675,38,Hipertensão,2,2,Sim,Não
+P00676,22,Insuficiência Cardíaca,4,5,Sim,Não
+P00677,59,Diabetes,3,7,Sim,Não
+P00678,78,Hipertensão,3,5,Não,Sim
+P00679,39,Diabetes,2,3,Não,Não
+P00680,38,Hipertensão,2,2,Sim,Não
+P00681,87,Insuficiência Cardíaca,1,11,Não,Não
+P00682,18,Insuficiência Cardíaca,3,5,Sim,Não
+P00683,22,Insuficiência Cardíaca,5,5,Sim,Sim
+P00684,29,Diabetes,1,9,Sim,Sim
+P00685,63,Hipertensão,2,3,Não,Sim
+P00686,51,Hipertensão,3,7,Sim,Sim
+P00687,66,Diabetes,2,2,Sim,Não
+P00688,62,Insuficiência Cardíaca,3,7,Sim,Não
+P00689,44,Diabetes,4,2,Sim,Não
+P00690,90,Hipertensão,1,6,Sim,Não
+P00691,43,Diabetes,1,4,Sim,Não
+P00692,64,Diabetes,3,1,Não,Não
+P00693,73,Hipertensão,3,4,Sim,Não
+P00694,80,Hipertensão,3,6,Sim,Não
+P00695,65,Diabetes,2,0,Não,Não
+P00696,78,Diabetes,1,5,Sim,Não
+P00697,43,Hipertensão,3,3,Não,Sim
+P00698,53,Diabetes,5,3,Não,Sim
+P00699,18,Diabetes,0,6,Não,Não
+P00700,25,Insuficiência Cardíaca,8,7,Sim,Sim
+P00701,69,Hipertensão,4,3,Sim,Não
+P00702,64,Diabetes,1,5,Sim,Não
+P00703,73,Hipertensão,6,2,Sim,Não
+P00704,31,Hipertensão,0,5,Não,Sim
+P00705,45,Insuficiência Cardíaca,7,2,Sim,Sim
+P00706,19,Hipertensão,1,4,Sim,Não
+P00707,43,Diabetes,3,3,Não,Não
+P00708,31,Diabetes,1,4,Sim,Não
+P00709,76,Diabetes,1,1,Sim,Sim
+P00710,73,Hipertensão,2,1,Não,Sim
+P00711,24,Diabetes,8,3,Sim,Não
+P00712,20,Hipertensão,2,4,Sim,Não
+P00713,40,Diabetes,6,4,Sim,Sim
+P00714,35,Diabetes,3,2,Não,Não
+P00715,55,Insuficiência Cardíaca,3,0,Sim,Não
+P00716,32,Hipertensão,5,7,Sim,Sim
+P00717,81,Diabetes,8,2,Sim,Não
+P00718,45,Hipertensão,3,5,Sim,Não
+P00719,56,Diabetes,2,8,Sim,Não
+P00720,74,Hipertensão,2,3,Sim,Não
+P00721,34,Hipertensão,3,4,Sim,Não
+P00722,61,Diabetes,6,2,Não,Não
+P00723,42,Hipertensão,3,5,Não,Sim
+P00724,34,Hipertensão,4,2,Sim,Não
+P00725,30,Hipertensão,4,3,Não,Não
+P00726,42,Diabetes,3,1,Sim,Não
+P00727,85,Diabetes,4,3,Não,Não
+P00728,27,Insuficiência Cardíaca,5,3,Não,Sim
+P00729,84,Diabetes,6,5,Sim,Sim
+P00730,35,Hipertensão,3,4,Sim,Não
+P00731,51,Hipertensão,4,3,Sim,Não
+P00732,25,Hipertensão,6,6,Sim,Não
+P00733,57,Diabetes,2,3,Sim,Não
+P00734,59,Diabetes,8,3,Sim,Não
+P00735,58,Hipertensão,3,5,Não,Não
+P00736,23,Diabetes,1,4,Não,Não
+P00737,69,Diabetes,4,5,Sim,Não
+P00738,43,Diabetes,4,1,Sim,Não
+P00739,81,Diabetes,1,4,Sim,Sim
+P00740,76,Insuficiência Cardíaca,1,5,Não,Não
+P00741,73,Diabetes,5,6,Sim,Sim
+P00742,76,Diabetes,4,3,Sim,Não
+P00743,87,Diabetes,3,3,Sim,Não
+P00744,50,Hipertensão,2,5,Sim,Não
+P00745,70,Hipertensão,1,0,Não,Sim
+P00746,39,Diabetes,5,4,Sim,Não
+P00747,38,Hipertensão,5,4,Não,Não
+P00748,87,Hipertensão,2,4,Sim,Não
+P00749,87,Insuficiência Cardíaca,4,4,Não,Sim
+P00750,21,Hipertensão,6,2,Sim,Não
+P00751,79,Diabetes,2,5,Sim,Não
+P00752,79,Diabetes,4,4,Sim,Não
+P00753,41,Diabetes,3,1,Sim,Não
+P00754,72,Diabetes,4,1,Sim,Sim
+P00755,26,Insuficiência Cardíaca,5,5,Sim,Sim
+P00756,20,Diabetes,0,5,Não,Não
+P00757,48,Diabetes,4,4,Sim,Não
+P00758,57,Hipertensão,1,2,Sim,Não
+P00759,53,Hipertensão,1,6,Não,Não
+P00760,41,Diabetes,3,4,Sim,Não
+P00761,23,Diabetes,2,1,Sim,Não
+P00762,83,Diabetes,1,6,Não,Sim
+P00763,21,Hipertensão,2,6,Não,Sim
+P00764,23,Diabetes,2,5,Sim,Não
+P00765,68,Diabetes,4,5,Não,Não
+P00766,79,Hipertensão,5,6,Sim,Não
+P00767,74,Diabetes,3,3,Sim,Não
+P00768,83,Hipertensão,3,5,Sim,Sim
+P00769,25,Hipertensão,1,2,Sim,Não
+P00770,43,Diabetes,0,6,Sim,Não
+P00771,68,Insuficiência Cardíaca,3,4,Sim,Não
+P00772,62,Hipertensão,7,7,Sim,Sim
+P00773,61,Diabetes,1,9,Sim,Não
+P00774,22,Hipertensão,8,0,Sim,Sim
+P00775,87,Hipertensão,4,2,Não,Não
+P00776,43,Hipertensão,5,6,Sim,Não
+P00777,85,Diabetes,3,5,Não,Sim
+P00778,36,Insuficiência Cardíaca,4,3,Não,Sim
+P00779,37,Diabetes,4,3,Sim,Sim
+P00780,29,Diabetes,3,5,Não,Não
+P00781,64,Diabetes,4,9,Sim,Não
+P00782,18,Diabetes,4,4,Não,Não
+P00783,31,Hipertensão,4,7,Sim,Não
+P00784,81,Diabetes,3,2,Sim,Não
+P00785,55,Diabetes,7,3,Sim,Não
+P00786,54,Insuficiência Cardíaca,3,5,Sim,Sim
+P00787,28,Diabetes,1,2,Sim,Não
+P00788,20,Diabetes,5,2,Não,Não
+P00789,50,Diabetes,3,5,Sim,Não
+P00790,23,Diabetes,4,6,Sim,Não
+P00791,67,Diabetes,3,4,Sim,Não
+P00792,27,Hipertensão,3,2,Não,Não
+P00793,22,Diabetes,4,5,Sim,Não
+P00794,40,Diabetes,0,3,Não,Sim
+P00795,27,Hipertensão,3,5,Não,Sim
+P00796,61,Hipertensão,5,2,Sim,Não
+P00797,19,Diabetes,3,3,Não,Não
+P00798,30,Hipertensão,2,1,Sim,Não
+P00799,57,Diabetes,2,5,Não,Não
+P00800,19,Hipertensão,4,3,Sim,Não
+P00801,82,Hipertensão,5,4,Não,Não
+P00802,80,Diabetes,6,1,Sim,Sim
+P00803,90,Insuficiência Cardíaca,4,4,Sim,Sim
+P00804,34,Diabetes,3,6,Sim,Não
+P00805,26,Hipertensão,7,8,Sim,Sim
+P00806,32,Diabetes,2,2,Sim,Não
+P00807,41,Hipertensão,2,3,Sim,Não
+P00808,55,Hipertensão,3,4,Não,Sim
+P00809,52,Hipertensão,2,6,Sim,Não
+P00810,66,Diabetes,3,4,Sim,Não
+P00811,86,Hipertensão,2,2,Sim,Sim
+P00812,79,Hipertensão,2,4,Sim,Sim
+P00813,77,Hipertensão,3,6,Não,Sim
+P00814,67,Hipertensão,6,4,Sim,Sim
+P00815,26,Hipertensão,2,0,Sim,Não
+P00816,51,Diabetes,7,6,Sim,Não
+P00817,52,Diabetes,3,9,Sim,Não
+P00818,18,Hipertensão,4,3,Não,Não
+P00819,57,Diabetes,1,6,Sim,Não
+P00820,81,Insuficiência Cardíaca,0,3,Não,Não
+P00821,39,Hipertensão,3,3,Sim,Sim
+P00822,77,Insuficiência Cardíaca,4,2,Não,Sim
+P00823,81,Diabetes,2,5,Não,Não
+P00824,89,Insuficiência Cardíaca,3,5,Sim,Sim
+P00825,28,Hipertensão,6,1,Não,Não
+P00826,31,Hipertensão,3,4,Sim,Não
+P00827,77,Hipertensão,2,3,Sim,Sim
+P00828,47,Diabetes,1,3,Sim,Não
+P00829,52,Hipertensão,3,1,Sim,Não
+P00830,54,Hipertensão,4,3,Sim,Não
+P00831,22,Diabetes,3,1,Sim,Não
+P00832,43,Diabetes,2,5,Não,Não
+P00833,79,Insuficiência Cardíaca,3,6,Não,Sim
+P00834,21,Insuficiência Cardíaca,0,4,Sim,Sim
+P00835,59,Insuficiência Cardíaca,2,4,Sim,Sim
+P00836,35,Hipertensão,6,1,Não,Não
+P00837,57,Diabetes,2,6,Não,Não
+P00838,89,Diabetes,3,1,Sim,Sim
+P00839,56,Diabetes,5,3,Sim,Não
+P00840,31,Diabetes,3,2,Não,Não
+P00841,49,Diabetes,3,3,Não,Não
+P00842,68,Diabetes,2,5,Sim,Não
+P00843,55,Diabetes,3,2,Não,Não
+P00844,40,Insuficiência Cardíaca,0,2,Sim,Não
+P00845,80,Diabetes,2,6,Não,Não
+P00846,32,Insuficiência Cardíaca,1,3,Sim,Não
+P00847,42,Hipertensão,1,4,Sim,Não
+P00848,34,Diabetes,3,6,Sim,Não
+P00849,83,Diabetes,7,3,Não,Sim
+P00850,70,Diabetes,3,2,Sim,Não
+P00851,68,Diabetes,2,7,Não,Sim
+P00852,56,Hipertensão,2,4,Sim,Não
+P00853,68,Diabetes,3,4,Não,Não
+P00854,87,Diabetes,6,5,Sim,Sim
+P00855,23,Diabetes,3,3,Sim,Não
+P00856,84,Insuficiência Cardíaca,2,5,Sim,Sim
+P00857,24,Hipertensão,3,5,Sim,Não
+P00858,68,Hipertensão,6,9,Não,Sim
+P00859,89,Diabetes,1,1,Sim,Não
+P00860,59,Hipertensão,2,5,Sim,Sim
+P00861,81,Hipertensão,5,3,Sim,Sim
+P00862,32,Hipertensão,4,3,Sim,Não
+P00863,46,Insuficiência Cardíaca,2,2,Sim,Não
+P00864,50,Diabetes,2,5,Sim,Sim
+P00865,44,Insuficiência Cardíaca,3,2,Sim,Não
+P00866,53,Insuficiência Cardíaca,3,4,Sim,Não
+P00867,46,Diabetes,3,5,Sim,Não
+P00868,55,Hipertensão,6,3,Sim,Não
+P00869,74,Insuficiência Cardíaca,0,4,Sim,Não
+P00870,44,Diabetes,4,2,Não,Sim
+P00871,72,Hipertensão,1,10,Não,Não
+P00872,50,Insuficiência Cardíaca,4,4,Sim,Sim
+P00873,85,Hipertensão,1,2,Sim,Não
+P00874,83,Diabetes,1,4,Sim,Não
+P00875,27,Hipertensão,3,3,Não,Não
+P00876,22,Diabetes,2,3,Sim,Não
+P00877,55,Hipertensão,0,1,Não,Sim
+P00878,30,Diabetes,2,6,Sim,Não
+P00879,48,Hipertensão,3,2,Sim,Não
+P00880,64,Hipertensão,3,6,Sim,Não
+P00881,69,Hipertensão,2,6,Sim,Não
+P00882,73,Hipertensão,10,4,Sim,Sim
+P00883,32,Hipertensão,4,4,Sim,Não
+P00884,46,Hipertensão,2,3,Não,Não
+P00885,25,Diabetes,2,6,Não,Não
+P00886,22,Hipertensão,3,4,Sim,Não
+P00887,46,Diabetes,3,6,Sim,Não
+P00888,64,Insuficiência Cardíaca,3,6,Não,Não
+P00889,85,Diabetes,0,2,Sim,Não
+P00890,62,Diabetes,0,3,Sim,Não
+P00891,19,Hipertensão,4,7,Sim,Não
+P00892,44,Hipertensão,2,3,Sim,Sim
+P00893,53,Diabetes,4,8,Não,Não
+P00894,53,Hipertensão,2,1,Sim,Não
+P00895,43,Hipertensão,1,7,Sim,Não
+P00896,60,Hipertensão,2,7,Sim,Não
+P00897,44,Diabetes,2,6,Sim,Sim
+P00898,86,Hipertensão,4,0,Não,Não
+P00899,37,Hipertensão,2,8,Sim,Não
+P00900,28,Hipertensão,3,4,Sim,Não
+P00901,55,Hipertensão,0,2,Não,Não
+P00902,23,Hipertensão,2,3,Sim,Sim
+P00903,89,Diabetes,1,4,Sim,Sim
+P00904,40,Diabetes,5,7,Sim,Não
+P00905,64,Diabetes,4,5,Sim,Não
+P00906,63,Diabetes,6,2,Sim,Não
+P00907,29,Diabetes,3,8,Sim,Não
+P00908,30,Hipertensão,11,5,Sim,Não
+P00909,79,Diabetes,1,3,Sim,Não
+P00910,77,Insuficiência Cardíaca,1,2,Sim,Não
+P00911,60,Diabetes,2,5,Sim,Não
+P00912,85,Hipertensão,4,5,Sim,Não
+P00913,22,Hipertensão,2,5,Não,Não
+P00914,54,Diabetes,2,6,Não,Sim
+P00915,89,Diabetes,2,8,Sim,Não
+P00916,48,Hipertensão,3,8,Não,Sim
+P00917,26,Diabetes,1,4,Sim,Não
+P00918,68,Insuficiência Cardíaca,0,3,Sim,Não
+P00919,46,Hipertensão,1,3,Não,Não
+P00920,57,Insuficiência Cardíaca,3,2,Sim,Não
+P00921,58,Diabetes,7,3,Sim,Sim
+P00922,28,Hipertensão,4,4,Sim,Não
+P00923,40,Hipertensão,6,4,Sim,Não
+P00924,18,Hipertensão,5,3,Sim,Não
+P00925,63,Diabetes,2,6,Sim,Não
+P00926,38,Hipertensão,3,4,Sim,Não
+P00927,53,Hipertensão,5,4,Sim,Sim
+P00928,71,Hipertensão,5,6,Sim,Não
+P00929,74,Diabetes,3,5,Sim,Não
+P00930,18,Insuficiência Cardíaca,4,2,Sim,Não
+P00931,80,Diabetes,3,4,Sim,Não
+P00932,71,Hipertensão,0,5,Não,Não
+P00933,72,Insuficiência Cardíaca,7,4,Sim,Sim
+P00934,57,Hipertensão,2,3,Não,Sim
+P00935,32,Hipertensão,5,1,Não,Sim
+P00936,38,Diabetes,1,4,Não,Não
+P00937,64,Insuficiência Cardíaca,1,4,Sim,Não
+P00938,90,Diabetes,1,4,Sim,Não
+P00939,70,Hipertensão,3,3,Sim,Não
+P00940,26,Hipertensão,3,3,Sim,Não
+P00941,69,Hipertensão,1,2,Sim,Sim
+P00942,74,Diabetes,3,4,Sim,Sim
+P00943,43,Hipertensão,3,4,Sim,Não
+P00944,58,Hipertensão,7,5,Sim,Não
+P00945,52,Diabetes,4,4,Sim,Não
+P00946,80,Insuficiência Cardíaca,3,7,Não,Sim
+P00947,42,Diabetes,3,3,Não,Sim
+P00948,55,Diabetes,1,3,Sim,Não
+P00949,19,Diabetes,5,5,Sim,Sim
+P00950,24,Diabetes,2,1,Não,Não
+P00951,51,Insuficiência Cardíaca,2,1,Sim,Sim
+P00952,34,Diabetes,2,6,Sim,Não
+P00953,60,Diabetes,5,1,Sim,Não
+P00954,76,Diabetes,2,9,Sim,Sim
+P00955,68,Hipertensão,1,2,Não,Não
+P00956,71,Hipertensão,7,3,Não,Sim
+P00957,41,Diabetes,6,5,Sim,Sim
+P00958,42,Diabetes,2,6,Não,Não
+P00959,88,Insuficiência Cardíaca,2,5,Sim,Não
+P00960,69,Diabetes,3,8,Sim,Sim
+P00961,87,Hipertensão,4,4,Sim,Sim
+P00962,50,Diabetes,2,8,Sim,Sim
+P00963,66,Hipertensão,2,3,Não,Não
+P00964,46,Diabetes,2,4,Não,Não
+P00965,80,Hipertensão,4,5,Sim,Sim
+P00966,39,Diabetes,5,5,Sim,Não
+P00967,43,Insuficiência Cardíaca,3,6,Sim,Sim
+P00968,45,Diabetes,3,3,Não,Não
+P00969,66,Hipertensão,2,0,Sim,Sim
+P00970,88,Diabetes,5,5,Sim,Não
+P00971,66,Diabetes,2,3,Sim,Não
+P00972,37,Hipertensão,3,5,Sim,Não
+P00973,80,Diabetes,3,3,Sim,Não
+P00974,78,Insuficiência Cardíaca,2,1,Não,Sim
+P00975,66,Insuficiência Cardíaca,1,2,Sim,Sim
+P00976,88,Insuficiência Cardíaca,1,2,Sim,Não
+P00977,18,Diabetes,4,2,Não,Não
+P00978,30,Hipertensão,1,2,Não,Não
+P00979,68,Diabetes,3,5,Sim,Não
+P00980,73,Insuficiência Cardíaca,2,9,Sim,Não
+P00981,79,Hipertensão,1,5,Não,Não
+P00982,49,Hipertensão,6,5,Sim,Sim
+P00983,47,Hipertensão,2,1,Não,Não
+P00984,46,Hipertensão,4,2,Sim,Sim
+P00985,66,Diabetes,4,3,Sim,Não
+P00986,62,Hipertensão,7,4,Sim,Não
+P00987,47,Diabetes,2,6,Não,Não
+P00988,33,Hipertensão,8,6,Não,Não
+P00989,57,Hipertensão,3,4,Sim,Não
+P00990,36,Hipertensão,4,4,Sim,Não
+P00991,35,Diabetes,4,4,Sim,Não
+P00992,18,Hipertensão,5,5,Não,Não
+P00993,64,Diabetes,1,7,Não,Não
+P00994,83,Hipertensão,3,5,Não,Não
+P00995,55,Diabetes,2,3,Sim,Não
+P00996,68,Diabetes,1,7,Sim,Não
+P00997,80,Diabetes,2,4,Sim,Sim
+P00998,21,Hipertensão,3,6,Sim,Não
+P00999,18,Diabetes,7,4,Sim,Não
+P01000,25,Diabetes,4,3,Não,Sim
+P01001,46,Insuficiência Cardíaca,1,2,Sim,Não
+P01002,72,Diabetes,1,1,Sim,Não
+P01003,20,Hipertensão,1,2,Não,Sim
+P01004,49,Hipertensão,4,4,Não,Não
+P01005,27,Insuficiência Cardíaca,6,8,Sim,Não
+P01006,51,Hipertensão,6,3,Sim,Sim
+P01007,72,Hipertensão,0,3,Sim,Não
+P01008,49,Hipertensão,8,5,Sim,Sim
+P01009,67,Diabetes,3,6,Não,Não
+P01010,24,Hipertensão,4,5,Sim,Não
+P01011,25,Diabetes,2,5,Sim,Não
+P01012,82,Insuficiência Cardíaca,2,4,Não,Sim
+P01013,74,Diabetes,2,5,Não,Não
+P01014,84,Hipertensão,0,2,Não,Não
+P01015,76,Diabetes,6,3,Não,Sim
+P01016,89,Hipertensão,4,2,Sim,Não
+P01017,71,Diabetes,3,3,Sim,Não
+P01018,84,Insuficiência Cardíaca,3,5,Sim,Não
+P01019,68,Hipertensão,1,4,Sim,Não
+P01020,25,Diabetes,5,1,Sim,Não
+P01021,51,Hipertensão,3,2,Sim,Não
+P01022,52,Hipertensão,4,4,Não,Sim
+P01023,49,Hipertensão,2,7,Sim,Não
+P01024,63,Diabetes,0,3,Não,Não
+P01025,33,Diabetes,1,5,Sim,Não
+P01026,85,Diabetes,1,6,Sim,Sim
+P01027,54,Diabetes,4,1,Sim,Sim
+P01028,71,Insuficiência Cardíaca,0,4,Sim,Não
+P01029,31,Diabetes,2,2,Sim,Não
+P01030,72,Hipertensão,3,4,Sim,Não
+P01031,65,Diabetes,3,4,Sim,Sim
+P01032,24,Hipertensão,3,1,Não,Não
+P01033,24,Hipertensão,1,6,Sim,Não
+P01034,50,Insuficiência Cardíaca,2,6,Sim,Não
+P01035,40,Diabetes,3,1,Não,Sim
+P01036,36,Hipertensão,4,6,Sim,Não
+P01037,36,Diabetes,4,5,Sim,Não
+P01038,53,Diabetes,1,2,Sim,Não
+P01039,46,Diabetes,0,2,Sim,Não
+P01040,77,Hipertensão,3,4,Sim,Não
+P01041,19,Diabetes,4,6,Sim,Não
+P01042,18,Hipertensão,0,5,Sim,Não
+P01043,64,Diabetes,1,1,Sim,Sim
+P01044,86,Hipertensão,4,5,Não,Não
+P01045,37,Diabetes,2,5,Sim,Não
+P01046,28,Hipertensão,5,3,Não,Sim
+P01047,19,Insuficiência Cardíaca,5,4,Sim,Não
+P01048,84,Hipertensão,4,4,Não,Sim
+P01049,29,Hipertensão,2,5,Não,Sim
+P01050,37,Diabetes,5,3,Sim,Não
+P01051,22,Hipertensão,6,2,Não,Não
+P01052,54,Diabetes,1,3,Sim,Sim
+P01053,55,Diabetes,2,3,Sim,Não
+P01054,26,Hipertensão,2,7,Sim,Não
+P01055,70,Insuficiência Cardíaca,2,5,Não,Não
+P01056,61,Diabetes,3,3,Não,Sim
+P01057,41,Hipertensão,1,3,Sim,Sim
+P01058,47,Hipertensão,4,4,Sim,Não
+P01059,76,Diabetes,2,5,Sim,Não
+P01060,31,Diabetes,0,5,Sim,Não
+P01061,26,Diabetes,1,1,Sim,Não
+P01062,57,Diabetes,5,4,Sim,Sim
+P01063,83,Diabetes,5,4,Sim,Não
+P01064,42,Diabetes,3,4,Não,Sim
+P01065,90,Diabetes,2,3,Sim,Sim
+P01066,39,Hipertensão,1,8,Não,Não
+P01067,21,Hipertensão,2,2,Sim,Não
+P01068,43,Insuficiência Cardíaca,3,3,Não,Não
+P01069,75,Diabetes,3,4,Sim,Não
+P01070,46,Hipertensão,5,6,Sim,Sim
+P01071,54,Insuficiência Cardíaca,3,2,Não,Não
+P01072,87,Hipertensão,2,4,Não,Não
+P01073,35,Diabetes,5,6,Sim,Não
+P01074,59,Hipertensão,3,1,Sim,Não
+P01075,58,Diabetes,4,4,Sim,Sim
+P01076,55,Diabetes,4,3,Sim,Não
+P01077,51,Hipertensão,4,3,Sim,Não
+P01078,34,Hipertensão,5,4,Sim,Não
+P01079,54,Diabetes,4,8,Sim,Não
+P01080,42,Insuficiência Cardíaca,4,6,Sim,Sim
+P01081,44,Hipertensão,0,3,Sim,Não
+P01082,74,Hipertensão,4,4,Não,Sim
+P01083,48,Insuficiência Cardíaca,2,2,Sim,Sim
+P01084,23,Diabetes,5,2,Sim,Não
+P01085,57,Insuficiência Cardíaca,5,6,Sim,Sim
+P01086,29,Hipertensão,2,2,Sim,Não
+P01087,70,Diabetes,4,5,Sim,Não
+P01088,88,Hipertensão,0,2,Sim,Não
+P01089,27,Hipertensão,2,3,Não,Não
+P01090,62,Hipertensão,0,10,Não,Não
+P01091,34,Insuficiência Cardíaca,6,3,Não,Não
+P01092,43,Hipertensão,4,4,Sim,Não
+P01093,79,Hipertensão,5,4,Sim,Não
+P01094,63,Insuficiência Cardíaca,6,7,Não,Sim
+P01095,81,Hipertensão,5,11,Sim,Não
+P01096,19,Diabetes,5,2,Sim,Sim
+P01097,71,Insuficiência Cardíaca,2,6,Sim,Sim
+P01098,82,Diabetes,3,8,Sim,Não
+P01099,68,Hipertensão,9,4,Sim,Não
+P01100,70,Insuficiência Cardíaca,0,4,Sim,Não
+P01101,53,Hipertensão,1,2,Sim,Não
+P01102,43,Hipertensão,3,5,Não,Não
+P01103,46,Hipertensão,6,4,Sim,Não
+P01104,38,Hipertensão,1,3,Sim,Não
+P01105,28,Insuficiência Cardíaca,5,5,Sim,Não
+P01106,57,Diabetes,3,8,Não,Sim
+P01107,28,Diabetes,5,4,Sim,Não
+P01108,53,Diabetes,7,4,Sim,Não
+P01109,76,Hipertensão,5,3,Não,Não
+P01110,56,Hipertensão,6,4,Sim,Sim
+P01111,71,Hipertensão,1,3,Sim,Não
+P01112,72,Diabetes,2,5,Sim,Sim
+P01113,41,Hipertensão,1,5,Não,Não
+P01114,39,Diabetes,5,3,Sim,Sim
+P01115,86,Diabetes,2,2,Sim,Não
+P01116,73,Hipertensão,2,6,Sim,Não
+P01117,50,Diabetes,2,9,Sim,Não
+P01118,53,Diabetes,2,2,Sim,Não
+P01119,37,Diabetes,2,4,Sim,Não
+P01120,79,Diabetes,2,2,Não,Sim
+P01121,90,Hipertensão,6,5,Não,Sim
+P01122,43,Diabetes,0,4,Não,Sim
+P01123,83,Hipertensão,1,6,Sim,Não
+P01124,90,Hipertensão,4,4,Sim,Sim
+P01125,90,Hipertensão,6,10,Sim,Não
+P01126,57,Insuficiência Cardíaca,3,3,Sim,Sim
+P01127,34,Hipertensão,3,5,Sim,Não
+P01128,18,Hipertensão,3,4,Sim,Sim
+P01129,78,Insuficiência Cardíaca,4,3,Não,Sim
+P01130,60,Diabetes,1,4,Sim,Não
+P01131,59,Insuficiência Cardíaca,4,4,Sim,Não
+P01132,42,Diabetes,4,4,Sim,Sim
+P01133,56,Diabetes,4,2,Sim,Não
+P01134,52,Diabetes,1,0,Sim,Não
+P01135,20,Hipertensão,2,4,Sim,Não
+P01136,61,Hipertensão,1,3,Sim,Não
+P01137,68,Hipertensão,2,5,Não,Sim
+P01138,29,Diabetes,2,4,Não,Não
+P01139,36,Diabetes,3,3,Sim,Não
+P01140,61,Diabetes,2,4,Sim,Não
+P01141,76,Diabetes,5,4,Não,Sim
+P01142,66,Insuficiência Cardíaca,5,1,Sim,Não
+P01143,78,Diabetes,3,4,Sim,Não
+P01144,34,Hipertensão,5,3,Sim,Sim
+P01145,74,Hipertensão,3,3,Sim,Não
+P01146,72,Diabetes,8,6,Não,Sim
+P01147,64,Hipertensão,8,3,Não,Sim
+P01148,29,Diabetes,4,4,Sim,Não
+P01149,79,Diabetes,1,3,Sim,Não
+P01150,25,Diabetes,0,4,Sim,Não
+P01151,38,Hipertensão,3,7,Não,Não
+P01152,87,Diabetes,4,5,Sim,Sim
+P01153,89,Hipertensão,3,4,Sim,Não
+P01154,42,Hipertensão,6,4,Sim,Não
+P01155,29,Diabetes,4,4,Não,Sim
+P01156,32,Hipertensão,4,7,Sim,Não
+P01157,76,Hipertensão,3,6,Não,Não
+P01158,43,Diabetes,2,2,Sim,Não
+P01159,43,Diabetes,5,7,Sim,Sim
+P01160,64,Hipertensão,4,4,Sim,Sim
+P01161,49,Diabetes,3,2,Sim,Não
+P01162,27,Hipertensão,5,6,Sim,Não
+P01163,33,Diabetes,2,6,Não,Sim
+P01164,88,Diabetes,2,2,Sim,Não
+P01165,34,Diabetes,2,4,Sim,Não
+P01166,40,Diabetes,3,1,Não,Sim
+P01167,43,Hipertensão,3,6,Sim,Não
+P01168,24,Diabetes,3,7,Sim,Não
+P01169,31,Hipertensão,0,4,Sim,Sim
+P01170,24,Insuficiência Cardíaca,4,3,Sim,Sim
+P01171,26,Hipertensão,4,3,Sim,Não
+P01172,65,Hipertensão,2,5,Sim,Sim
+P01173,89,Diabetes,4,2,Sim,Não
+P01174,76,Diabetes,2,0,Não,Sim
+P01175,56,Hipertensão,1,6,Sim,Não
+P01176,35,Diabetes,1,5,Sim,Sim
+P01177,76,Hipertensão,1,4,Não,Sim
+P01178,34,Diabetes,1,3,Sim,Não
+P01179,31,Hipertensão,2,2,Sim,Não
+P01180,48,Insuficiência Cardíaca,1,2,Sim,Sim
+P01181,41,Insuficiência Cardíaca,5,4,Não,Não
+P01182,77,Hipertensão,2,4,Sim,Sim
+P01183,62,Hipertensão,1,4,Não,Não
+P01184,20,Hipertensão,3,6,Sim,Não
+P01185,54,Hipertensão,5,5,Sim,Sim
+P01186,60,Diabetes,3,2,Sim,Sim
+P01187,57,Diabetes,3,3,Sim,Não
+P01188,72,Hipertensão,1,6,Sim,Não
+P01189,56,Insuficiência Cardíaca,2,3,Sim,Sim
+P01190,32,Diabetes,3,3,Sim,Não
+P01191,21,Hipertensão,2,4,Não,Não
+P01192,42,Hipertensão,4,4,Sim,Não
+P01193,30,Hipertensão,4,4,Sim,Não
+P01194,50,Hipertensão,4,4,Não,Não
+P01195,33,Diabetes,2,1,Não,Não
+P01196,59,Hipertensão,3,7,Não,Sim
+P01197,83,Hipertensão,1,4,Não,Não
+P01198,72,Hipertensão,3,1,Sim,Não
+P01199,59,Diabetes,2,6,Sim,Não
+P01200,51,Hipertensão,0,5,Sim,Não
+P01201,47,Hipertensão,3,3,Sim,Não
+P01202,30,Diabetes,4,8,Sim,Sim
+P01203,30,Hipertensão,1,6,Não,Não
+P01204,35,Hipertensão,2,4,Não,Não
+P01205,49,Hipertensão,5,3,Sim,Sim
+P01206,56,Insuficiência Cardíaca,0,3,Sim,Não
+P01207,63,Hipertensão,1,5,Sim,Sim
+P01208,46,Hipertensão,2,3,Sim,Não
+P01209,79,Hipertensão,2,4,Não,Não
+P01210,79,Diabetes,2,4,Sim,Não
+P01211,74,Diabetes,4,4,Sim,Não
+P01212,33,Hipertensão,3,4,Sim,Não
+P01213,73,Diabetes,3,0,Não,Não
+P01214,27,Diabetes,2,7,Sim,Não
+P01215,47,Insuficiência Cardíaca,3,2,Sim,Sim
+P01216,42,Hipertensão,1,4,Sim,Não
+P01217,22,Hipertensão,2,1,Sim,Não
+P01218,82,Insuficiência Cardíaca,0,4,Sim,Não
+P01219,66,Hipertensão,4,5,Sim,Sim
+P01220,20,Diabetes,4,2,Não,Não
+P01221,62,Diabetes,6,4,Não,Sim
+P01222,31,Hipertensão,3,4,Sim,Não
+P01223,47,Hipertensão,4,3,Sim,Não
+P01224,85,Diabetes,1,4,Não,Sim
+P01225,35,Hipertensão,3,2,Sim,Não
+P01226,79,Diabetes,1,5,Sim,Não
+P01227,54,Hipertensão,3,4,Sim,Não
+P01228,42,Hipertensão,2,4,Sim,Não
+P01229,65,Hipertensão,5,1,Sim,Não
+P01230,82,Insuficiência Cardíaca,4,4,Sim,Não
+P01231,70,Hipertensão,1,3,Sim,Não
+P01232,90,Insuficiência Cardíaca,4,3,Sim,Sim
+P01233,32,Insuficiência Cardíaca,2,5,Sim,Não
+P01234,66,Hipertensão,1,5,Sim,Não
+P01235,85,Hipertensão,6,5,Não,Não
+P01236,29,Diabetes,1,4,Sim,Sim
+P01237,76,Hipertensão,4,7,Sim,Sim
+P01238,54,Hipertensão,4,8,Sim,Não
+P01239,78,Diabetes,6,5,Sim,Sim
+P01240,60,Diabetes,6,2,Sim,Sim
+P01241,87,Insuficiência Cardíaca,1,6,Não,Sim
+P01242,56,Insuficiência Cardíaca,4,3,Sim,Sim
+P01243,73,Hipertensão,6,1,Sim,Não
+P01244,80,Diabetes,6,3,Sim,Não
+P01245,63,Diabetes,2,1,Não,Não
+P01246,28,Diabetes,4,1,Sim,Não
+P01247,79,Diabetes,4,4,Sim,Sim
+P01248,42,Diabetes,3,1,Sim,Não
+P01249,88,Diabetes,2,4,Sim,Sim
+P01250,69,Insuficiência Cardíaca,0,4,Sim,Não
+P01251,21,Hipertensão,3,1,Sim,Não
+P01252,76,Diabetes,0,6,Sim,Não
+P01253,89,Diabetes,1,2,Sim,Não
+P01254,37,Hipertensão,3,3,Sim,Não
+P01255,80,Diabetes,3,8,Sim,Não
+P01256,71,Insuficiência Cardíaca,1,3,Sim,Não
+P01257,74,Diabetes,8,9,Sim,Sim
+P01258,58,Diabetes,3,1,Não,Não
+P01259,20,Diabetes,1,3,Não,Não
+P01260,23,Diabetes,2,2,Sim,Não
+P01261,22,Hipertensão,3,6,Sim,Não
+P01262,22,Hipertensão,1,2,Sim,Não
+P01263,71,Hipertensão,3,3,Sim,Sim
+P01264,64,Diabetes,3,4,Sim,Sim
+P01265,66,Hipertensão,5,2,Sim,Não
+P01266,26,Hipertensão,5,1,Sim,Não
+P01267,37,Insuficiência Cardíaca,6,0,Sim,Sim
+P01268,78,Diabetes,4,5,Sim,Não
+P01269,52,Diabetes,1,3,Sim,Não
+P01270,67,Hipertensão,1,5,Sim,Não
+P01271,79,Hipertensão,5,3,Sim,Não
+P01272,34,Hipertensão,4,5,Sim,Sim
+P01273,20,Diabetes,3,5,Não,Não
+P01274,49,Hipertensão,1,5,Não,Sim
+P01275,30,Insuficiência Cardíaca,1,5,Sim,Não
+P01276,90,Hipertensão,1,7,Não,Sim
+P01277,85,Insuficiência Cardíaca,1,4,Sim,Sim
+P01278,31,Hipertensão,2,3,Sim,Não
+P01279,28,Insuficiência Cardíaca,0,2,Sim,Não
+P01280,73,Hipertensão,0,2,Não,Não
+P01281,84,Diabetes,2,7,Sim,Não
+P01282,46,Insuficiência Cardíaca,0,3,Sim,Não
+P01283,26,Diabetes,5,6,Sim,Sim
+P01284,84,Insuficiência Cardíaca,4,5,Não,Não
+P01285,42,Hipertensão,2,6,Sim,Não
+P01286,59,Diabetes,1,2,Sim,Não
+P01287,26,Hipertensão,2,4,Sim,Não
+P01288,57,Insuficiência Cardíaca,1,1,Não,Não
+P01289,42,Diabetes,2,6,Sim,Não
+P01290,22,Hipertensão,5,7,Sim,Não
+P01291,28,Hipertensão,6,3,Sim,Não
+P01292,76,Hipertensão,4,5,Sim,Não
+P01293,55,Diabetes,2,3,Sim,Sim
+P01294,89,Diabetes,3,2,Sim,Sim
+P01295,22,Diabetes,4,3,Não,Não
+P01296,65,Hipertensão,1,4,Sim,Sim
+P01297,35,Hipertensão,0,5,Não,Não
+P01298,87,Insuficiência Cardíaca,7,1,Não,Sim
+P01299,54,Diabetes,2,4,Sim,Não
+P01300,77,Hipertensão,6,3,Sim,Sim
+P01301,65,Diabetes,2,1,Não,Sim
+P01302,45,Diabetes,3,2,Sim,Não
+P01303,86,Hipertensão,6,2,Sim,Não
+P01304,57,Hipertensão,4,4,Sim,Sim
+P01305,62,Hipertensão,2,4,Sim,Não
+P01306,79,Insuficiência Cardíaca,7,2,Sim,Sim
+P01307,75,Hipertensão,5,8,Não,Sim
+P01308,84,Insuficiência Cardíaca,5,8,Não,Sim
+P01309,73,Insuficiência Cardíaca,0,5,Sim,Não
+P01310,57,Hipertensão,2,3,Sim,Não
+P01311,57,Hipertensão,1,3,Sim,Não
+P01312,50,Hipertensão,5,1,Sim,Não
+P01313,23,Diabetes,3,4,Sim,Sim
+P01314,36,Hipertensão,8,4,Não,Não
+P01315,57,Diabetes,2,6,Não,Não
+P01316,76,Hipertensão,3,3,Sim,Sim
+P01317,76,Hipertensão,2,3,Sim,Sim
+P01318,65,Diabetes,3,6,Sim,Sim
+P01319,58,Diabetes,5,7,Sim,Não
+P01320,30,Insuficiência Cardíaca,8,4,Sim,Não
+P01321,62,Hipertensão,3,4,Não,Não
+P01322,70,Diabetes,3,6,Não,Não
+P01323,59,Hipertensão,5,4,Não,Não
+P01324,80,Hipertensão,2,4,Não,Não
+P01325,44,Hipertensão,4,3,Não,Sim
+P01326,55,Insuficiência Cardíaca,3,2,Não,Sim
+P01327,77,Hipertensão,5,0,Sim,Sim
+P01328,24,Diabetes,4,6,Sim,Não
+P01329,22,Hipertensão,4,2,Sim,Não
+P01330,62,Insuficiência Cardíaca,2,5,Sim,Não
+P01331,75,Diabetes,4,3,Sim,Não
+P01332,48,Diabetes,5,2,Não,Sim
+P01333,40,Diabetes,3,2,Sim,Não
+P01334,59,Hipertensão,0,4,Sim,Sim
+P01335,27,Hipertensão,3,7,Sim,Não
+P01336,49,Hipertensão,6,6,Sim,Não
+P01337,70,Insuficiência Cardíaca,5,5,Sim,Não
+P01338,47,Hipertensão,3,0,Sim,Não
+P01339,56,Diabetes,1,3,Sim,Não
+P01340,48,Diabetes,6,4,Sim,Não
+P01341,19,Diabetes,3,3,Sim,Não
+P01342,29,Diabetes,2,5,Sim,Não
+P01343,56,Hipertensão,3,2,Sim,Não
+P01344,83,Insuficiência Cardíaca,6,3,Sim,Não
+P01345,30,Diabetes,1,6,Sim,Não
+P01346,63,Hipertensão,3,1,Sim,Não
+P01347,44,Hipertensão,1,5,Sim,Não
+P01348,34,Diabetes,4,4,Sim,Não
+P01349,77,Diabetes,1,6,Não,Sim
+P01350,81,Hipertensão,2,2,Sim,Não
+P01351,52,Diabetes,5,4,Sim,Sim
+P01352,87,Insuficiência Cardíaca,2,5,Não,Sim
+P01353,47,Diabetes,3,7,Não,Sim
+P01354,88,Diabetes,4,6,Sim,Sim
+P01355,80,Hipertensão,3,3,Não,Não
+P01356,45,Insuficiência Cardíaca,6,2,Não,Não
+P01357,77,Diabetes,3,4,Sim,Sim
+P01358,54,Diabetes,3,11,Sim,Não
+P01359,39,Diabetes,3,6,Sim,Não
+P01360,85,Diabetes,2,3,Sim,Sim
+P01361,37,Diabetes,3,3,Sim,Não
+P01362,85,Hipertensão,4,2,Sim,Não
+P01363,81,Diabetes,3,6,Não,Sim
+P01364,34,Diabetes,3,7,Não,Não
+P01365,29,Hipertensão,3,3,Não,Não
+P01366,39,Diabetes,2,3,Sim,Não
+P01367,34,Diabetes,5,9,Sim,Não
+P01368,27,Diabetes,4,5,Não,Não
+P01369,82,Insuficiência Cardíaca,0,4,Sim,Não
+P01370,39,Diabetes,2,3,Sim,Não
+P01371,67,Insuficiência Cardíaca,5,4,Não,Sim
+P01372,31,Hipertensão,3,1,Sim,Não
+P01373,81,Diabetes,1,2,Sim,Não
+P01374,64,Insuficiência Cardíaca,1,4,Sim,Não
+P01375,46,Diabetes,2,2,Sim,Sim
+P01376,53,Diabetes,2,6,Sim,Não
+P01377,69,Hipertensão,5,7,Sim,Sim
+P01378,24,Hipertensão,3,7,Sim,Não
+P01379,46,Hipertensão,7,7,Não,Sim
+P01380,28,Diabetes,5,3,Sim,Não
+P01381,50,Hipertensão,3,4,Sim,Sim
+P01382,23,Hipertensão,6,3,Sim,Não
+P01383,49,Diabetes,4,3,Sim,Não
+P01384,68,Diabetes,2,7,Não,Não
+P01385,75,Diabetes,1,7,Sim,Não
+P01386,43,Diabetes,3,5,Sim,Não
+P01387,63,Insuficiência Cardíaca,2,6,Sim,Não
+P01388,46,Diabetes,4,6,Sim,Não
+P01389,21,Insuficiência Cardíaca,6,2,Não,Não
+P01390,30,Diabetes,2,3,Não,Sim
+P01391,56,Hipertensão,3,4,Sim,Não
+P01392,32,Diabetes,2,3,Não,Não
+P01393,46,Diabetes,6,2,Sim,Não
+P01394,46,Diabetes,1,8,Sim,Não
+P01395,49,Diabetes,8,3,Sim,Não
+P01396,19,Hipertensão,3,4,Sim,Não
+P01397,64,Insuficiência Cardíaca,6,4,Sim,Sim
+P01398,39,Hipertensão,1,5,Não,Não
+P01399,44,Diabetes,4,4,Não,Sim
+P01400,84,Diabetes,1,7,Sim,Sim
+P01401,73,Diabetes,0,5,Sim,Não
+P01402,38,Hipertensão,0,2,Não,Não
+P01403,64,Hipertensão,4,5,Sim,Não
+P01404,76,Insuficiência Cardíaca,4,2,Sim,Sim
+P01405,23,Diabetes,4,5,Sim,Não
+P01406,36,Hipertensão,2,4,Sim,Não
+P01407,74,Hipertensão,3,2,Sim,Sim
+P01408,86,Hipertensão,3,4,Sim,Não
+P01409,20,Hipertensão,4,4,Sim,Sim
+P01410,18,Hipertensão,7,5,Sim,Não
+P01411,75,Hipertensão,0,1,Não,Não
+P01412,55,Diabetes,3,7,Não,Não
+P01413,32,Hipertensão,4,5,Sim,Não
+P01414,51,Diabetes,4,5,Sim,Não
+P01415,78,Hipertensão,3,1,Sim,Não
+P01416,52,Diabetes,3,3,Sim,Sim
+P01417,81,Hipertensão,3,6,Sim,Sim
+P01418,42,Insuficiência Cardíaca,2,4,Sim,Não
+P01419,41,Insuficiência Cardíaca,2,4,Sim,Não
+P01420,29,Hipertensão,4,6,Não,Sim
+P01421,35,Hipertensão,2,4,Sim,Não
+P01422,32,Hipertensão,4,5,Não,Não
+P01423,44,Hipertensão,4,3,Não,Sim
+P01424,89,Insuficiência Cardíaca,4,5,Sim,Não
+P01425,77,Diabetes,4,4,Não,Sim
+P01426,63,Insuficiência Cardíaca,4,4,Sim,Não
+P01427,34,Insuficiência Cardíaca,2,6,Não,Não
+P01428,70,Hipertensão,2,6,Sim,Não
+P01429,25,Diabetes,4,3,Não,Não
+P01430,44,Diabetes,4,0,Sim,Sim
+P01431,63,Insuficiência Cardíaca,7,5,Sim,Não
+P01432,67,Diabetes,3,5,Sim,Sim
+P01433,88,Insuficiência Cardíaca,2,3,Não,Não
+P01434,20,Hipertensão,2,4,Não,Não
+P01435,81,Diabetes,1,5,Sim,Não
+P01436,61,Insuficiência Cardíaca,0,3,Sim,Não
+P01437,70,Hipertensão,3,6,Sim,Não
+P01438,41,Hipertensão,2,1,Não,Não
+P01439,77,Hipertensão,2,3,Sim,Não
+P01440,20,Diabetes,1,5,Não,Não
+P01441,37,Hipertensão,0,10,Sim,Não
+P01442,63,Diabetes,4,1,Sim,Não
+P01443,32,Insuficiência Cardíaca,1,2,Sim,Não
+P01444,42,Insuficiência Cardíaca,4,4,Sim,Não
+P01445,88,Diabetes,6,4,Sim,Não
+P01446,34,Hipertensão,1,2,Sim,Não
+P01447,26,Hipertensão,3,6,Sim,Não
+P01448,55,Diabetes,2,4,Sim,Sim
+P01449,65,Insuficiência Cardíaca,5,3,Sim,Não
+P01450,77,Diabetes,3,7,Sim,Não
+P01451,80,Diabetes,1,4,Sim,Não
+P01452,19,Hipertensão,1,3,Sim,Não
+P01453,89,Hipertensão,3,5,Sim,Não
+P01454,28,Hipertensão,2,3,Sim,Não
+P01455,81,Hipertensão,4,3,Sim,Não
+P01456,89,Hipertensão,5,3,Não,Sim
+P01457,38,Hipertensão,3,2,Sim,Não
+P01458,35,Diabetes,2,4,Não,Não
+P01459,81,Diabetes,4,5,Não,Não
+P01460,55,Diabetes,1,4,Sim,Não
+P01461,49,Diabetes,4,2,Sim,Não
+P01462,28,Hipertensão,2,2,Sim,Não
+P01463,62,Diabetes,3,6,Sim,Sim
+P01464,50,Diabetes,3,5,Sim,Não
+P01465,58,Diabetes,1,7,Sim,Não
+P01466,25,Insuficiência Cardíaca,2,5,Sim,Sim
+P01467,28,Insuficiência Cardíaca,2,8,Não,Sim
+P01468,68,Hipertensão,4,1,Sim,Não
+P01469,58,Insuficiência Cardíaca,3,2,Sim,Não
+P01470,34,Hipertensão,2,7,Sim,Não
+P01471,63,Hipertensão,2,4,Sim,Sim
+P01472,49,Diabetes,3,9,Sim,Não
+P01473,71,Hipertensão,2,4,Sim,Não
+P01474,37,Hipertensão,3,5,Sim,Não
+P01475,50,Hipertensão,4,3,Sim,Não
+P01476,57,Hipertensão,2,4,Sim,Não
+P01477,49,Hipertensão,2,4,Sim,Não
+P01478,19,Hipertensão,1,4,Não,Não
+P01479,50,Insuficiência Cardíaca,3,5,Sim,Sim
+P01480,47,Diabetes,3,3,Sim,Não
+P01481,50,Hipertensão,3,2,Sim,Não
+P01482,43,Hipertensão,4,2,Sim,Não
+P01483,39,Hipertensão,3,6,Sim,Não
+P01484,83,Hipertensão,2,7,Sim,Não
+P01485,55,Diabetes,3,3,Não,Sim
+P01486,63,Hipertensão,4,8,Sim,Não
+P01487,32,Diabetes,6,6,Sim,Não
+P01488,61,Hipertensão,3,3,Sim,Sim
+P01489,66,Hipertensão,3,2,Sim,Não
+P01490,78,Hipertensão,3,3,Sim,Não
+P01491,84,Diabetes,3,3,Sim,Sim
+P01492,23,Hipertensão,5,3,Sim,Não
+P01493,26,Diabetes,4,4,Sim,Sim
+P01494,23,Insuficiência Cardíaca,1,3,Sim,Não
+P01495,90,Insuficiência Cardíaca,3,6,Sim,Sim
+P01496,49,Insuficiência Cardíaca,4,1,Sim,Não
+P01497,58,Hipertensão,2,1,Sim,Não
+P01498,25,Hipertensão,2,3,Sim,Não
+P01499,89,Diabetes,1,3,Não,Sim
+P01500,67,Diabetes,4,4,Não,Não
+P01501,79,Hipertensão,1,4,Sim,Não
+P01502,79,Hipertensão,3,8,Sim,Não
+P01503,24,Insuficiência Cardíaca,2,4,Sim,Não
+P01504,21,Diabetes,0,2,Não,Sim
+P01505,23,Insuficiência Cardíaca,1,3,Não,Não
+P01506,75,Hipertensão,1,3,Sim,Não
+P01507,39,Hipertensão,3,3,Sim,Sim
+P01508,43,Diabetes,3,6,Sim,Não
+P01509,20,Diabetes,4,3,Sim,Não
+P01510,58,Hipertensão,3,4,Não,Sim
+P01511,77,Hipertensão,3,3,Sim,Sim
+P01512,31,Diabetes,4,5,Não,Não
+P01513,29,Hipertensão,4,3,Sim,Não
+P01514,29,Insuficiência Cardíaca,3,5,Sim,Não
+P01515,30,Hipertensão,1,7,Sim,Não
+P01516,42,Insuficiência Cardíaca,2,4,Sim,Não
+P01517,62,Diabetes,0,2,Sim,Não
+P01518,36,Diabetes,3,5,Sim,Não
+P01519,72,Hipertensão,3,8,Não,Não
+P01520,62,Diabetes,1,4,Não,Sim
+P01521,25,Diabetes,2,8,Sim,Não
+P01522,70,Diabetes,4,3,Sim,Não
+P01523,72,Diabetes,2,6,Não,Não
+P01524,49,Diabetes,5,4,Sim,Sim
+P01525,68,Diabetes,4,2,Não,Sim
+P01526,61,Diabetes,3,5,Sim,Não
+P01527,87,Diabetes,3,2,Não,Não
+P01528,35,Hipertensão,4,4,Sim,Não
+P01529,39,Hipertensão,3,2,Sim,Não
+P01530,54,Hipertensão,2,2,Sim,Sim
+P01531,73,Diabetes,6,3,Não,Sim
+P01532,76,Diabetes,1,4,Sim,Não
+P01533,20,Hipertensão,3,3,Não,Não
+P01534,45,Hipertensão,2,4,Sim,Não
+P01535,52,Hipertensão,4,3,Sim,Não
+P01536,78,Diabetes,2,3,Sim,Não
+P01537,71,Insuficiência Cardíaca,3,3,Sim,Não
+P01538,80,Diabetes,2,6,Sim,Sim
+P01539,24,Hipertensão,2,2,Sim,Não
+P01540,66,Hipertensão,3,5,Sim,Não
+P01541,48,Hipertensão,3,2,Sim,Não
+P01542,75,Diabetes,4,4,Sim,Não
+P01543,78,Diabetes,4,1,Sim,Sim
+P01544,41,Hipertensão,2,7,Sim,Não
+P01545,37,Diabetes,2,4,Não,Sim
+P01546,54,Diabetes,4,1,Sim,Sim
+P01547,21,Diabetes,2,2,Sim,Não
+P01548,37,Hipertensão,2,4,Sim,Não
+P01549,77,Diabetes,8,4,Sim,Não
+P01550,41,Insuficiência Cardíaca,3,7,Sim,Sim
+P01551,67,Hipertensão,3,2,Não,Não
+P01552,66,Insuficiência Cardíaca,4,9,Sim,Não
+P01553,68,Insuficiência Cardíaca,1,4,Sim,Não
+P01554,53,Hipertensão,4,6,Não,Não
+P01555,83,Diabetes,4,3,Sim,Não
+P01556,51,Diabetes,4,5,Sim,Sim
+P01557,53,Diabetes,3,3,Sim,Sim
+P01558,23,Hipertensão,3,1,Sim,Não
+P01559,56,Diabetes,2,3,Não,Não
+P01560,59,Diabetes,2,0,Sim,Não
+P01561,75,Diabetes,2,4,Sim,Não
+P01562,29,Insuficiência Cardíaca,2,9,Não,Sim
+P01563,20,Diabetes,3,2,Não,Não
+P01564,35,Diabetes,0,8,Sim,Não
+P01565,57,Diabetes,4,5,Não,Sim
+P01566,38,Insuficiência Cardíaca,3,3,Sim,Não
+P01567,32,Hipertensão,6,5,Não,Sim
+P01568,43,Diabetes,4,4,Sim,Não
+P01569,25,Diabetes,1,3,Sim,Não
+P01570,59,Diabetes,4,4,Sim,Sim
+P01571,61,Diabetes,6,3,Não,Sim
+P01572,31,Insuficiência Cardíaca,3,2,Sim,Não
+P01573,19,Hipertensão,2,10,Sim,Não
+P01574,54,Hipertensão,1,7,Sim,Não
+P01575,86,Insuficiência Cardíaca,4,4,Sim,Não
+P01576,55,Diabetes,4,7,Sim,Sim
+P01577,58,Hipertensão,3,2,Sim,Não
+P01578,79,Insuficiência Cardíaca,2,5,Não,Não
+P01579,77,Diabetes,4,5,Sim,Não
+P01580,31,Hipertensão,6,8,Sim,Não
+P01581,19,Diabetes,3,3,Sim,Sim
+P01582,87,Diabetes,2,4,Não,Sim
+P01583,34,Diabetes,5,5,Sim,Não
+P01584,45,Diabetes,1,4,Sim,Não
+P01585,83,Hipertensão,1,3,Sim,Não
+P01586,52,Insuficiência Cardíaca,1,2,Sim,Não
+P01587,22,Hipertensão,1,6,Sim,Não
+P01588,82,Insuficiência Cardíaca,2,3,Sim,Não
+P01589,57,Hipertensão,3,2,Sim,Não
+P01590,73,Diabetes,1,3,Sim,Sim
+P01591,53,Hipertensão,1,1,Sim,Sim
+P01592,62,Diabetes,2,3,Sim,Não
+P01593,40,Hipertensão,3,2,Não,Sim
+P01594,64,Insuficiência Cardíaca,5,5,Sim,Não
+P01595,48,Diabetes,4,8,Sim,Sim
+P01596,28,Hipertensão,3,3,Não,Sim
+P01597,27,Hipertensão,1,2,Sim,Não
+P01598,84,Hipertensão,2,2,Sim,Não
+P01599,31,Diabetes,0,6,Sim,Não
+P01600,27,Diabetes,2,3,Sim,Não
+P01601,18,Diabetes,2,5,Sim,Não
+P01602,22,Diabetes,5,5,Sim,Não
+P01603,37,Diabetes,3,6,Sim,Sim
+P01604,25,Hipertensão,2,3,Sim,Não
+P01605,60,Diabetes,4,3,Sim,Não
+P01606,18,Insuficiência Cardíaca,5,6,Sim,Sim
+P01607,74,Hipertensão,3,5,Sim,Sim
+P01608,81,Hipertensão,2,3,Sim,Não
+P01609,45,Diabetes,0,4,Não,Não
+P01610,54,Hipertensão,3,1,Sim,Não
+P01611,64,Insuficiência Cardíaca,1,3,Sim,Não
+P01612,54,Diabetes,6,5,Sim,Sim
+P01613,66,Diabetes,4,7,Não,Não
+P01614,61,Hipertensão,3,2,Não,Sim
+P01615,73,Diabetes,7,5,Não,Sim
+P01616,45,Diabetes,4,6,Sim,Não
+P01617,23,Diabetes,3,3,Sim,Sim
+P01618,78,Diabetes,1,8,Sim,Não
+P01619,37,Hipertensão,2,1,Sim,Não
+P01620,19,Diabetes,1,5,Sim,Sim
+P01621,90,Insuficiência Cardíaca,4,5,Sim,Sim
+P01622,54,Hipertensão,2,4,Sim,Não
+P01623,37,Hipertensão,1,5,Não,Não
+P01624,43,Hipertensão,2,2,Sim,Não
+P01625,46,Insuficiência Cardíaca,1,6,Sim,Não
+P01626,18,Diabetes,3,2,Sim,Não
+P01627,52,Insuficiência Cardíaca,1,3,Sim,Sim
+P01628,87,Hipertensão,3,3,Sim,Não
+P01629,76,Hipertensão,3,2,Sim,Não
+P01630,86,Hipertensão,1,5,Sim,Não
+P01631,50,Diabetes,2,3,Sim,Não
+P01632,68,Diabetes,3,2,Não,Não
+P01633,29,Hipertensão,6,3,Sim,Não
+P01634,37,Diabetes,3,2,Não,Não
+P01635,70,Hipertensão,5,3,Não,Sim
+P01636,60,Diabetes,1,2,Sim,Não
+P01637,67,Diabetes,2,3,Sim,Não
+P01638,46,Diabetes,3,3,Sim,Não
+P01639,74,Diabetes,3,3,Sim,Sim
+P01640,56,Hipertensão,1,2,Não,Não
+P01641,73,Diabetes,3,3,Sim,Não
+P01642,60,Insuficiência Cardíaca,3,6,Sim,Sim
+P01643,67,Hipertensão,1,2,Sim,Não
+P01644,40,Diabetes,3,5,Sim,Não
+P01645,61,Hipertensão,2,5,Sim,Não
+P01646,55,Insuficiência Cardíaca,4,7,Sim,Não
+P01647,40,Hipertensão,4,5,Sim,Não
+P01648,62,Diabetes,3,5,Sim,Não
+P01649,69,Insuficiência Cardíaca,4,5,Sim,Sim
+P01650,67,Hipertensão,5,2,Não,Não
+P01651,25,Diabetes,3,3,Sim,Sim
+P01652,18,Diabetes,2,1,Sim,Sim
+P01653,25,Hipertensão,6,4,Sim,Não
+P01654,46,Diabetes,2,5,Não,Sim
+P01655,22,Hipertensão,2,4,Sim,Não
+P01656,64,Diabetes,4,5,Não,Não
+P01657,51,Insuficiência Cardíaca,1,3,Sim,Sim
+P01658,82,Hipertensão,0,5,Sim,Sim
+P01659,72,Diabetes,4,2,Sim,Não
+P01660,60,Diabetes,4,3,Não,Não
+P01661,47,Hipertensão,2,5,Sim,Não
+P01662,34,Hipertensão,0,3,Sim,Não
+P01663,43,Hipertensão,3,5,Sim,Não
+P01664,25,Diabetes,6,4,Sim,Sim
+P01665,64,Diabetes,4,3,Não,Sim
+P01666,89,Diabetes,3,3,Sim,Sim
+P01667,63,Hipertensão,1,6,Não,Não
+P01668,85,Diabetes,4,5,Sim,Não
+P01669,50,Diabetes,4,5,Sim,Não
+P01670,18,Hipertensão,2,5,Sim,Não
+P01671,36,Insuficiência Cardíaca,7,1,Sim,Não
+P01672,48,Diabetes,2,2,Sim,Não
+P01673,31,Diabetes,4,2,Sim,Não
+P01674,70,Hipertensão,1,8,Sim,Sim
+P01675,65,Hipertensão,3,3,Não,Não
+P01676,86,Diabetes,0,2,Não,Não
+P01677,79,Insuficiência Cardíaca,1,3,Sim,Sim
+P01678,83,Hipertensão,3,5,Não,Sim
+P01679,81,Diabetes,2,2,Sim,Não
+P01680,87,Diabetes,2,7,Sim,Não
+P01681,80,Hipertensão,2,2,Sim,Não
+P01682,90,Hipertensão,4,3,Sim,Não
+P01683,50,Diabetes,2,3,Não,Não
+P01684,58,Hipertensão,3,5,Sim,Não
+P01685,65,Hipertensão,4,3,Sim,Não
+P01686,30,Diabetes,3,5,Sim,Não
+P01687,90,Hipertensão,5,4,Sim,Sim
+P01688,48,Insuficiência Cardíaca,1,2,Sim,Não
+P01689,85,Diabetes,6,5,Sim,Não
+P01690,21,Diabetes,3,3,Sim,Não
+P01691,36,Diabetes,4,0,Não,Não
+P01692,87,Insuficiência Cardíaca,4,3,Sim,Não
+P01693,30,Insuficiência Cardíaca,4,6,Sim,Sim
+P01694,40,Diabetes,2,3,Sim,Sim
+P01695,18,Hipertensão,6,3,Sim,Não
+P01696,71,Hipertensão,1,3,Sim,Não
+P01697,88,Hipertensão,6,7,Sim,Não
+P01698,32,Diabetes,3,2,Sim,Não
+P01699,82,Diabetes,3,4,Não,Não
+P01700,88,Diabetes,2,3,Não,Não
+P01701,32,Hipertensão,3,5,Não,Não
+P01702,38,Diabetes,5,5,Não,Sim
+P01703,36,Insuficiência Cardíaca,4,5,Sim,Não
+P01704,77,Diabetes,4,1,Não,Não
+P01705,50,Diabetes,2,4,Sim,Não
+P01706,66,Hipertensão,4,6,Sim,Não
+P01707,52,Hipertensão,5,7,Sim,Não
+P01708,61,Diabetes,3,5,Sim,Não
+P01709,28,Diabetes,5,2,Não,Não
+P01710,89,Insuficiência Cardíaca,1,1,Sim,Sim
+P01711,83,Diabetes,4,1,Não,Não
+P01712,63,Diabetes,3,0,Sim,Não
+P01713,26,Hipertensão,6,3,Sim,Não
+P01714,20,Diabetes,4,2,Sim,Não
+P01715,43,Hipertensão,3,3,Não,Não
+P01716,89,Diabetes,2,4,Não,Sim
+P01717,65,Diabetes,3,4,Não,Não
+P01718,83,Diabetes,3,5,Sim,Não
+P01719,87,Diabetes,1,7,Sim,Não
+P01720,45,Diabetes,2,2,Sim,Não
+P01721,43,Diabetes,3,3,Sim,Sim
+P01722,42,Hipertensão,4,5,Não,Sim
+P01723,29,Diabetes,3,5,Sim,Não
+P01724,22,Diabetes,1,2,Sim,Não
+P01725,65,Insuficiência Cardíaca,1,6,Sim,Não
+P01726,54,Hipertensão,1,7,Sim,Sim
+P01727,61,Diabetes,4,3,Sim,Sim
+P01728,32,Insuficiência Cardíaca,2,5,Não,Sim
+P01729,60,Diabetes,4,5,Sim,Não
+P01730,65,Diabetes,2,1,Sim,Não
+P01731,87,Hipertensão,3,3,Sim,Não
+P01732,63,Hipertensão,5,5,Não,Sim
+P01733,60,Diabetes,4,7,Sim,Sim
+P01734,38,Diabetes,3,4,Sim,Não
+P01735,40,Hipertensão,1,0,Sim,Não
+P01736,64,Diabetes,4,5,Sim,Não
+P01737,32,Insuficiência Cardíaca,4,6,Sim,Não
+P01738,42,Diabetes,3,4,Não,Sim
+P01739,53,Insuficiência Cardíaca,4,6,Sim,Não
+P01740,68,Hipertensão,4,3,Sim,Não
+P01741,32,Hipertensão,3,4,Sim,Não
+P01742,85,Hipertensão,1,1,Sim,Não
+P01743,38,Hipertensão,1,3,Sim,Não
+P01744,30,Diabetes,4,6,Sim,Não
+P01745,36,Diabetes,4,3,Sim,Não
+P01746,51,Diabetes,3,4,Sim,Não
+P01747,85,Insuficiência Cardíaca,2,2,Não,Não
+P01748,69,Hipertensão,3,6,Sim,Sim
+P01749,44,Diabetes,3,10,Não,Não
+P01750,46,Diabetes,4,6,Sim,Não
+P01751,45,Diabetes,3,1,Sim,Não
+P01752,52,Hipertensão,0,7,Sim,Não
+P01753,25,Hipertensão,5,6,Sim,Não
+P01754,33,Hipertensão,2,2,Sim,Sim
+P01755,53,Insuficiência Cardíaca,2,4,Não,Não
+P01756,47,Diabetes,3,9,Sim,Não
+P01757,35,Hipertensão,2,1,Não,Sim
+P01758,19,Diabetes,2,4,Sim,Não
+P01759,66,Diabetes,2,4,Não,Não
+P01760,21,Diabetes,1,3,Sim,Não
+P01761,24,Diabetes,3,5,Sim,Não
+P01762,56,Insuficiência Cardíaca,4,2,Não,Sim
+P01763,30,Diabetes,1,3,Sim,Não
+P01764,48,Hipertensão,2,1,Sim,Não
+P01765,88,Insuficiência Cardíaca,3,7,Sim,Sim
+P01766,80,Hipertensão,2,10,Não,Sim
+P01767,73,Diabetes,4,3,Sim,Não
+P01768,59,Hipertensão,0,2,Sim,Sim
+P01769,78,Diabetes,4,4,Não,Não
+P01770,59,Hipertensão,2,8,Não,Não
+P01771,73,Hipertensão,7,3,Sim,Não
+P01772,53,Hipertensão,4,7,Sim,Sim
+P01773,85,Diabetes,2,10,Sim,Sim
+P01774,24,Hipertensão,2,3,Sim,Não
+P01775,71,Diabetes,6,6,Sim,Não
+P01776,18,Diabetes,2,4,Sim,Sim
+P01777,61,Diabetes,8,2,Sim,Sim
+P01778,62,Diabetes,3,4,Não,Não
+P01779,64,Diabetes,2,2,Sim,Não
+P01780,30,Hipertensão,2,2,Sim,Sim
+P01781,39,Insuficiência Cardíaca,4,6,Sim,Sim
+P01782,38,Diabetes,4,6,Sim,Não
+P01783,26,Diabetes,6,3,Sim,Não
+P01784,43,Diabetes,4,2,Sim,Não
+P01785,26,Diabetes,4,5,Não,Sim
+P01786,32,Diabetes,5,3,Sim,Não
+P01787,27,Insuficiência Cardíaca,3,4,Sim,Não
+P01788,59,Diabetes,2,4,Sim,Não
+P01789,89,Diabetes,3,5,Sim,Sim
+P01790,41,Diabetes,2,2,Sim,Sim
+P01791,66,Insuficiência Cardíaca,2,4,Sim,Não
+P01792,43,Hipertensão,8,4,Sim,Não
+P01793,54,Insuficiência Cardíaca,2,5,Não,Não
+P01794,85,Hipertensão,4,2,Sim,Não
+P01795,67,Diabetes,8,3,Sim,Não
+P01796,41,Diabetes,5,7,Sim,Não
+P01797,36,Hipertensão,7,4,Não,Sim
+P01798,77,Diabetes,3,7,Sim,Sim
+P01799,56,Hipertensão,1,5,Não,Não
+P01800,35,Diabetes,2,6,Sim,Não
+P01801,36,Diabetes,2,4,Não,Não
+P01802,53,Hipertensão,2,5,Sim,Não
+P01803,72,Hipertensão,6,6,Sim,Sim
+P01804,86,Hipertensão,2,5,Não,Sim
+P01805,64,Diabetes,5,3,Sim,Não
+P01806,66,Hipertensão,2,4,Sim,Não
+P01807,50,Diabetes,4,5,Não,Não
+P01808,38,Diabetes,5,5,Sim,Sim
+P01809,39,Diabetes,1,3,Sim,Não
+P01810,65,Diabetes,4,3,Sim,Não
+P01811,54,Diabetes,1,1,Sim,Não
+P01812,32,Diabetes,5,2,Não,Não
+P01813,52,Diabetes,6,2,Não,Não
+P01814,88,Diabetes,4,5,Sim,Sim
+P01815,49,Diabetes,3,8,Não,Sim
+P01816,28,Diabetes,1,7,Não,Não
+P01817,27,Diabetes,1,3,Sim,Não
+P01818,90,Hipertensão,1,4,Sim,Sim
+P01819,74,Diabetes,3,5,Sim,Sim
+P01820,42,Diabetes,2,3,Não,Não
+P01821,19,Diabetes,0,3,Sim,Não
+P01822,81,Hipertensão,1,5,Não,Não
+P01823,52,Insuficiência Cardíaca,6,8,Não,Não
+P01824,24,Hipertensão,4,3,Sim,Não
+P01825,35,Hipertensão,2,8,Sim,Não
+P01826,84,Hipertensão,4,2,Sim,Não
+P01827,59,Hipertensão,5,2,Sim,Sim
+P01828,56,Hipertensão,0,6,Sim,Não
+P01829,58,Diabetes,0,1,Sim,Não
+P01830,41,Diabetes,4,3,Sim,Não
+P01831,77,Diabetes,3,5,Não,Não
+P01832,63,Insuficiência Cardíaca,4,5,Sim,Não
+P01833,36,Hipertensão,1,3,Sim,Não
+P01834,85,Hipertensão,3,4,Não,Não
+P01835,59,Diabetes,4,3,Sim,Não
+P01836,49,Diabetes,2,2,Sim,Não
+P01837,56,Diabetes,5,2,Sim,Não
+P01838,53,Diabetes,2,3,Não,Não
+P01839,53,Hipertensão,4,6,Sim,Não
+P01840,20,Hipertensão,2,3,Sim,Sim
+P01841,90,Diabetes,3,3,Não,Sim
+P01842,25,Hipertensão,3,1,Sim,Sim
+P01843,87,Diabetes,0,2,Sim,Não
+P01844,58,Insuficiência Cardíaca,5,2,Sim,Sim
+P01845,85,Diabetes,5,1,Sim,Sim
+P01846,30,Diabetes,2,4,Sim,Não
+P01847,66,Diabetes,2,7,Sim,Não
+P01848,77,Diabetes,1,5,Não,Não
+P01849,19,Diabetes,0,4,Não,Sim
+P01850,77,Hipertensão,5,2,Sim,Não
+P01851,22,Insuficiência Cardíaca,2,3,Sim,Não
+P01852,61,Hipertensão,5,1,Não,Não
+P01853,44,Diabetes,3,1,Sim,Não
+P01854,49,Hipertensão,1,2,Sim,Não
+P01855,38,Diabetes,1,6,Sim,Não
+P01856,25,Diabetes,4,2,Sim,Não
+P01857,89,Hipertensão,5,3,Sim,Não
+P01858,67,Hipertensão,1,4,Sim,Sim
+P01859,84,Diabetes,0,1,Sim,Sim
+P01860,61,Diabetes,1,6,Sim,Não
+P01861,75,Insuficiência Cardíaca,7,5,Sim,Sim
+P01862,20,Diabetes,4,8,Sim,Não
+P01863,87,Diabetes,5,6,Sim,Não
+P01864,19,Hipertensão,2,5,Sim,Não
+P01865,61,Diabetes,4,5,Sim,Sim
+P01866,19,Diabetes,4,0,Sim,Não
+P01867,52,Diabetes,0,1,Sim,Não
+P01868,47,Hipertensão,3,6,Sim,Sim
+P01869,25,Hipertensão,3,1,Sim,Não
+P01870,39,Hipertensão,5,6,Sim,Sim
+P01871,61,Insuficiência Cardíaca,3,8,Sim,Não
+P01872,75,Hipertensão,5,1,Não,Sim
+P01873,53,Diabetes,4,4,Não,Sim
+P01874,86,Diabetes,0,3,Sim,Sim
+P01875,48,Hipertensão,2,4,Sim,Sim
+P01876,64,Hipertensão,1,3,Sim,Não
+P01877,72,Hipertensão,3,2,Sim,Não
+P01878,79,Hipertensão,5,4,Não,Não
+P01879,47,Diabetes,6,4,Sim,Não
+P01880,72,Diabetes,2,5,Sim,Não
+P01881,33,Diabetes,2,4,Sim,Não
+P01882,29,Diabetes,6,5,Sim,Não
+P01883,34,Diabetes,9,6,Sim,Sim
+P01884,33,Hipertensão,3,0,Sim,Não
+P01885,29,Hipertensão,0,3,Sim,Não
+P01886,25,Diabetes,3,3,Não,Não
+P01887,20,Hipertensão,1,2,Sim,Não
+P01888,33,Hipertensão,3,6,Não,Não
+P01889,47,Diabetes,3,2,Não,Não
+P01890,40,Hipertensão,2,6,Não,Não
+P01891,22,Hipertensão,0,6,Sim,Não
+P01892,82,Hipertensão,4,3,Sim,Sim
+P01893,47,Hipertensão,3,4,Sim,Não
+P01894,38,Hipertensão,2,4,Não,Não
+P01895,87,Diabetes,1,2,Não,Não
+P01896,39,Diabetes,3,4,Sim,Sim
+P01897,89,Diabetes,0,4,Sim,Não
+P01898,49,Insuficiência Cardíaca,4,2,Sim,Não
+P01899,50,Diabetes,4,1,Sim,Não
+P01900,33,Diabetes,1,6,Não,Sim
+P01901,55,Insuficiência Cardíaca,3,0,Não,Sim
+P01902,31,Insuficiência Cardíaca,3,6,Sim,Sim
+P01903,53,Hipertensão,3,3,Sim,Sim
+P01904,40,Diabetes,6,4,Sim,Não
+P01905,83,Diabetes,5,4,Sim,Não
+P01906,19,Diabetes,5,1,Não,Não
+P01907,90,Diabetes,3,7,Não,Não
+P01908,82,Diabetes,2,1,Sim,Sim
+P01909,84,Hipertensão,5,6,Sim,Não
+P01910,69,Insuficiência Cardíaca,5,3,Sim,Sim
+P01911,79,Diabetes,6,4,Não,Sim
+P01912,40,Hipertensão,1,5,Sim,Sim
+P01913,43,Hipertensão,4,10,Sim,Não
+P01914,85,Diabetes,1,1,Sim,Não
+P01915,72,Hipertensão,1,2,Não,Sim
+P01916,23,Diabetes,4,3,Sim,Não
+P01917,52,Diabetes,5,4,Sim,Sim
+P01918,39,Hipertensão,2,6,Sim,Sim
+P01919,60,Diabetes,1,4,Sim,Não
+P01920,32,Insuficiência Cardíaca,5,3,Não,Sim
+P01921,77,Diabetes,5,5,Sim,Não
+P01922,29,Hipertensão,1,4,Sim,Não
+P01923,66,Diabetes,3,4,Sim,Sim
+P01924,59,Diabetes,7,4,Sim,Sim
+P01925,55,Diabetes,3,3,Não,Não
+P01926,62,Hipertensão,2,6,Sim,Não
+P01927,52,Hipertensão,2,1,Não,Não
+P01928,47,Hipertensão,5,6,Sim,Não
+P01929,47,Hipertensão,2,4,Sim,Não
+P01930,23,Hipertensão,2,2,Sim,Não
+P01931,84,Hipertensão,3,5,Sim,Não
+P01932,24,Hipertensão,2,5,Sim,Não
+P01933,69,Hipertensão,3,2,Sim,Sim
+P01934,31,Hipertensão,2,5,Sim,Não
+P01935,90,Hipertensão,2,9,Não,Sim
+P01936,32,Diabetes,0,4,Sim,Não
+P01937,38,Hipertensão,7,2,Sim,Não
+P01938,52,Hipertensão,5,1,Não,Não
+P01939,83,Diabetes,1,5,Não,Sim
+P01940,19,Diabetes,1,3,Sim,Não
+P01941,52,Diabetes,2,2,Não,Não
+P01942,37,Hipertensão,3,5,Sim,Sim
+P01943,27,Hipertensão,2,5,Não,Não
+P01944,42,Diabetes,3,8,Sim,Não
+P01945,83,Hipertensão,4,2,Não,Sim
+P01946,42,Insuficiência Cardíaca,3,4,Sim,Sim
+P01947,71,Diabetes,9,7,Sim,Sim
+P01948,50,Insuficiência Cardíaca,3,4,Sim,Não
+P01949,53,Insuficiência Cardíaca,4,3,Sim,Não
+P01950,31,Hipertensão,1,1,Sim,Não
+P01951,82,Hipertensão,4,2,Sim,Sim
+P01952,71,Insuficiência Cardíaca,1,6,Sim,Não
+P01953,69,Hipertensão,4,3,Sim,Não
+P01954,20,Diabetes,2,7,Sim,Sim
+P01955,58,Hipertensão,5,3,Sim,Sim
+P01956,23,Hipertensão,3,1,Sim,Não
+P01957,42,Hipertensão,4,1,Sim,Não
+P01958,30,Diabetes,1,4,Sim,Não
+P01959,25,Hipertensão,2,2,Sim,Não
+P01960,38,Diabetes,3,3,Não,Sim
+P01961,85,Insuficiência Cardíaca,6,6,Sim,Sim
+P01962,42,Diabetes,5,5,Sim,Sim
+P01963,85,Diabetes,4,2,Sim,Sim
+P01964,62,Diabetes,3,8,Sim,Não
+P01965,77,Diabetes,5,5,Sim,Não
+P01966,29,Hipertensão,3,5,Não,Sim
+P01967,49,Insuficiência Cardíaca,3,5,Não,Não
+P01968,30,Hipertensão,5,0,Sim,Não
+P01969,48,Diabetes,5,7,Sim,Sim
+P01970,37,Diabetes,3,7,Sim,Sim
+P01971,35,Hipertensão,4,4,Sim,Sim
+P01972,77,Insuficiência Cardíaca,2,2,Não,Sim
+P01973,80,Hipertensão,2,6,Não,Sim
+P01974,23,Hipertensão,1,10,Sim,Não
+P01975,49,Diabetes,3,1,Sim,Não
+P01976,60,Insuficiência Cardíaca,4,6,Sim,Não
+P01977,19,Hipertensão,1,5,Sim,Não
+P01978,77,Diabetes,3,4,Não,Não
+P01979,40,Diabetes,5,9,Sim,Não
+P01980,48,Insuficiência Cardíaca,1,4,Sim,Não
+P01981,22,Diabetes,4,6,Não,Não
+P01982,51,Diabetes,1,4,Sim,Não
+P01983,27,Hipertensão,9,3,Sim,Sim
+P01984,19,Diabetes,2,6,Sim,Não
+P01985,28,Diabetes,0,4,Sim,Não
+P01986,67,Hipertensão,2,6,Sim,Sim
+P01987,48,Insuficiência Cardíaca,3,8,Sim,Sim
+P01988,73,Hipertensão,1,2,Não,Não
+P01989,90,Insuficiência Cardíaca,2,4,Sim,Sim
+P01990,26,Hipertensão,4,1,Sim,Não
+P01991,38,Hipertensão,1,3,Não,Não
+P01992,90,Diabetes,2,5,Sim,Não
+P01993,45,Hipertensão,2,7,Não,Sim
+P01994,79,Insuficiência Cardíaca,0,6,Sim,Não
+P01995,24,Diabetes,2,1,Sim,Não
+P01996,33,Diabetes,4,2,Sim,Não
+P01997,21,Hipertensão,5,4,Sim,Não
+P01998,21,Diabetes,3,7,Não,Não
+P01999,57,Diabetes,6,5,Sim,Sim
+P02000,34,Hipertensão,2,7,Sim,Não
+P02001,69,Insuficiência Cardíaca,3,6,Sim,Não
+P02002,69,Diabetes,4,7,Sim,Sim
+P02003,53,Diabetes,5,6,Não,Sim
+P02004,55,Diabetes,1,3,Não,Sim
+P02005,67,Insuficiência Cardíaca,3,9,Sim,Não
+P02006,80,Hipertensão,1,10,Sim,Não
+P02007,80,Diabetes,4,4,Sim,Sim
+P02008,79,Hipertensão,4,2,Sim,Não
+P02009,24,Diabetes,3,4,Sim,Não
+P02010,44,Hipertensão,1,5,Sim,Não
+P02011,31,Insuficiência Cardíaca,3,1,Não,Não
+P02012,88,Hipertensão,0,3,Sim,Não
+P02013,22,Hipertensão,2,3,Sim,Não
+P02014,72,Diabetes,2,5,Sim,Não
+P02015,19,Hipertensão,8,4,Sim,Não
+P02016,79,Hipertensão,0,3,Sim,Não
+P02017,38,Diabetes,0,3,Sim,Não
+P02018,38,Hipertensão,4,6,Sim,Não
+P02019,27,Diabetes,1,4,Sim,Não
+P02020,75,Hipertensão,0,6,Sim,Não
+P02021,56,Diabetes,4,5,Não,Sim
+P02022,22,Insuficiência Cardíaca,5,5,Não,Não
+P02023,82,Diabetes,4,5,Sim,Não
+P02024,30,Hipertensão,3,3,Não,Sim
+P02025,70,Hipertensão,5,5,Sim,Não
+P02026,62,Hipertensão,3,3,Não,Sim
+P02027,49,Diabetes,1,5,Sim,Não
+P02028,53,Hipertensão,1,6,Sim,Não
+P02029,77,Hipertensão,0,2,Sim,Não
+P02030,28,Diabetes,5,5,Sim,Não
+P02031,80,Diabetes,3,2,Sim,Não
+P02032,38,Hipertensão,2,3,Sim,Não
+P02033,69,Hipertensão,2,3,Sim,Não
+P02034,72,Diabetes,4,6,Sim,Sim
+P02035,43,Diabetes,3,4,Sim,Não
+P02036,85,Diabetes,2,4,Sim,Sim
+P02037,51,Hipertensão,3,4,Sim,Não
+P02038,69,Hipertensão,3,3,Sim,Não
+P02039,69,Hipertensão,2,3,Sim,Não
+P02040,46,Insuficiência Cardíaca,3,4,Sim,Sim
+P02041,55,Hipertensão,2,2,Sim,Não
+P02042,59,Diabetes,2,1,Sim,Não
+P02043,38,Diabetes,3,5,Não,Não
+P02044,59,Diabetes,4,2,Não,Não
+P02045,30,Insuficiência Cardíaca,5,5,Sim,Não
+P02046,81,Hipertensão,4,1,Sim,Não
+P02047,34,Diabetes,3,4,Sim,Sim
+P02048,26,Diabetes,5,3,Sim,Sim
+P02049,58,Hipertensão,2,5,Sim,Não
+P02050,18,Hipertensão,4,3,Sim,Não
+P02051,19,Diabetes,3,5,Sim,Não
+P02052,77,Insuficiência Cardíaca,4,2,Não,Sim
+P02053,65,Hipertensão,4,1,Sim,Não
+P02054,46,Diabetes,1,7,Sim,Não
+P02055,27,Insuficiência Cardíaca,2,6,Sim,Não
+P02056,75,Diabetes,4,7,Não,Sim
+P02057,77,Insuficiência Cardíaca,3,0,Sim,Não
+P02058,38,Insuficiência Cardíaca,3,10,Não,Sim
+P02059,45,Hipertensão,6,1,Não,Sim
+P02060,51,Hipertensão,4,2,Sim,Não
+P02061,25,Diabetes,6,5,Sim,Não
+P02062,76,Insuficiência Cardíaca,4,5,Sim,Sim
+P02063,89,Hipertensão,1,5,Não,Sim
+P02064,66,Hipertensão,4,4,Não,Sim
+P02065,34,Insuficiência Cardíaca,3,2,Sim,Não
+P02066,77,Insuficiência Cardíaca,5,3,Sim,Sim
+P02067,62,Hipertensão,3,7,Sim,Não
+P02068,86,Diabetes,2,2,Sim,Não
+P02069,49,Insuficiência Cardíaca,1,5,Não,Não
+P02070,61,Hipertensão,2,4,Sim,Sim
+P02071,82,Insuficiência Cardíaca,5,2,Não,Sim
+P02072,25,Hipertensão,2,1,Sim,Não
+P02073,89,Diabetes,5,4,Sim,Não
+P02074,60,Diabetes,4,2,Sim,Não
+P02075,18,Hipertensão,1,3,Sim,Não
+P02076,68,Hipertensão,2,5,Sim,Não
+P02077,41,Diabetes,1,3,Sim,Não
+P02078,41,Hipertensão,2,3,Sim,Não
+P02079,34,Diabetes,2,4,Sim,Não
+P02080,22,Hipertensão,3,4,Sim,Não
+P02081,37,Hipertensão,3,4,Não,Não
+P02082,38,Diabetes,6,4,Sim,Não
+P02083,75,Diabetes,6,3,Sim,Sim
+P02084,48,Diabetes,2,4,Sim,Não
+P02085,28,Hipertensão,4,1,Sim,Não
+P02086,69,Diabetes,5,4,Sim,Sim
+P02087,32,Diabetes,3,7,Não,Não
+P02088,24,Insuficiência Cardíaca,3,1,Sim,Não
+P02089,45,Insuficiência Cardíaca,3,8,Sim,Não
+P02090,68,Hipertensão,5,6,Não,Sim
+P02091,75,Insuficiência Cardíaca,2,2,Sim,Não
+P02092,22,Diabetes,3,5,Não,Não
+P02093,22,Hipertensão,3,3,Não,Não
+P02094,25,Hipertensão,3,3,Sim,Não
+P02095,81,Hipertensão,2,4,Sim,Não
+P02096,27,Diabetes,3,5,Sim,Não
+P02097,55,Hipertensão,2,3,Sim,Não
+P02098,25,Diabetes,5,4,Sim,Sim
+P02099,42,Hipertensão,4,4,Sim,Não
+P02100,90,Diabetes,4,3,Não,Sim
+P02101,83,Diabetes,2,6,Sim,Sim
+P02102,67,Diabetes,3,6,Sim,Não
+P02103,84,Diabetes,5,2,Sim,Sim
+P02104,66,Hipertensão,2,7,Sim,Sim
+P02105,53,Diabetes,5,2,Sim,Sim
+P02106,85,Insuficiência Cardíaca,0,4,Não,Não
+P02107,58,Diabetes,2,5,Sim,Não
+P02108,79,Diabetes,0,2,Não,Não
+P02109,27,Hipertensão,1,4,Sim,Não
+P02110,38,Diabetes,3,3,Não,Não
+P02111,53,Hipertensão,4,5,Sim,Não
+P02112,29,Hipertensão,3,5,Sim,Não
+P02113,19,Diabetes,6,3,Sim,Não
+P02114,30,Diabetes,3,6,Não,Não
+P02115,70,Diabetes,3,2,Sim,Não
+P02116,49,Diabetes,5,7,Sim,Sim
+P02117,33,Diabetes,5,2,Sim,Não
+P02118,49,Diabetes,1,4,Sim,Não
+P02119,49,Diabetes,3,5,Sim,Sim
+P02120,28,Hipertensão,3,2,Sim,Não
+P02121,27,Hipertensão,4,2,Sim,Não
+P02122,32,Hipertensão,6,8,Sim,Sim
+P02123,34,Diabetes,4,3,Sim,Não
+P02124,57,Diabetes,5,5,Não,Não
+P02125,35,Insuficiência Cardíaca,4,3,Sim,Sim
+P02126,72,Hipertensão,3,0,Sim,Sim
+P02127,90,Insuficiência Cardíaca,2,8,Não,Não
+P02128,42,Diabetes,3,2,Sim,Não
+P02129,76,Hipertensão,2,2,Sim,Sim
+P02130,39,Hipertensão,4,3,Sim,Não
+P02131,47,Diabetes,3,6,Sim,Não
+P02132,61,Hipertensão,2,4,Sim,Não
+P02133,49,Hipertensão,4,2,Sim,Não
+P02134,68,Diabetes,1,2,Sim,Não
+P02135,63,Diabetes,3,2,Sim,Não
+P02136,38,Hipertensão,3,8,Sim,Sim
+P02137,49,Insuficiência Cardíaca,3,5,Sim,Não
+P02138,56,Diabetes,4,5,Sim,Sim
+P02139,29,Diabetes,0,2,Não,Não
+P02140,64,Diabetes,2,4,Não,Não
+P02141,35,Hipertensão,2,4,Não,Sim
+P02142,38,Diabetes,2,6,Não,Não
+P02143,30,Insuficiência Cardíaca,5,8,Sim,Sim
+P02144,38,Diabetes,2,4,Não,Sim
+P02145,25,Diabetes,2,6,Sim,Não
+P02146,63,Hipertensão,2,3,Sim,Sim
+P02147,24,Hipertensão,3,7,Sim,Sim
+P02148,40,Hipertensão,3,2,Não,Não
+P02149,39,Diabetes,5,2,Sim,Sim
+P02150,39,Insuficiência Cardíaca,3,5,Sim,Não
+P02151,46,Diabetes,2,7,Não,Sim
+P02152,30,Insuficiência Cardíaca,6,6,Sim,Sim
+P02153,19,Diabetes,5,7,Sim,Não
+P02154,46,Hipertensão,4,4,Sim,Sim
+P02155,69,Hipertensão,3,7,Sim,Não
+P02156,44,Diabetes,3,2,Sim,Não
+P02157,67,Insuficiência Cardíaca,1,8,Sim,Sim
+P02158,40,Diabetes,2,6,Não,Sim
+P02159,61,Diabetes,5,4,Sim,Sim
+P02160,39,Hipertensão,2,5,Não,Não
+P02161,60,Diabetes,5,2,Sim,Sim
+P02162,54,Hipertensão,5,4,Sim,Não
+P02163,78,Diabetes,2,3,Sim,Não
+P02164,73,Diabetes,5,2,Sim,Não
+P02165,20,Diabetes,5,2,Sim,Não
+P02166,80,Diabetes,2,1,Não,Não
+P02167,36,Hipertensão,4,2,Sim,Não
+P02168,40,Hipertensão,1,3,Sim,Sim
+P02169,46,Insuficiência Cardíaca,3,4,Sim,Não
+P02170,47,Hipertensão,6,4,Sim,Não
+P02171,56,Diabetes,4,2,Sim,Sim
+P02172,42,Diabetes,2,3,Não,Sim
+P02173,25,Diabetes,6,6,Sim,Sim
+P02174,75,Diabetes,5,3,Sim,Não
+P02175,33,Hipertensão,4,4,Sim,Sim
+P02176,89,Diabetes,7,4,Não,Sim
+P02177,18,Diabetes,5,4,Sim,Não
+P02178,22,Insuficiência Cardíaca,4,6,Não,Não
+P02179,20,Hipertensão,3,10,Sim,Sim
+P02180,82,Diabetes,2,3,Não,Não
+P02181,21,Diabetes,3,9,Não,Sim
+P02182,81,Diabetes,3,0,Não,Não
+P02183,27,Insuficiência Cardíaca,3,3,Sim,Não
+P02184,38,Diabetes,3,3,Sim,Sim
+P02185,63,Diabetes,0,1,Sim,Não
+P02186,44,Diabetes,6,2,Sim,Não
+P02187,83,Hipertensão,3,1,Sim,Não
+P02188,58,Diabetes,4,5,Sim,Sim
+P02189,30,Hipertensão,0,1,Não,Não
+P02190,26,Hipertensão,1,3,Sim,Sim
+P02191,53,Hipertensão,2,5,Sim,Sim
+P02192,75,Diabetes,1,2,Sim,Não
+P02193,71,Hipertensão,4,3,Sim,Sim
+P02194,29,Hipertensão,2,4,Sim,Não
+P02195,31,Diabetes,4,5,Sim,Não
+P02196,51,Hipertensão,4,5,Não,Não
+P02197,70,Diabetes,2,2,Sim,Não
+P02198,37,Diabetes,5,7,Não,Não
+P02199,33,Hipertensão,5,2,Não,Não
+P02200,87,Diabetes,1,5,Sim,Sim
+P02201,73,Hipertensão,5,6,Não,Não
+P02202,75,Diabetes,2,5,Sim,Não
+P02203,21,Insuficiência Cardíaca,1,4,Sim,Não
+P02204,21,Insuficiência Cardíaca,5,2,Sim,Sim
+P02205,37,Insuficiência Cardíaca,6,1,Não,Não
+P02206,27,Diabetes,1,4,Não,Não
+P02207,41,Diabetes,5,8,Sim,Sim
+P02208,43,Hipertensão,3,4,Sim,Não
+P02209,54,Diabetes,0,5,Sim,Sim
+P02210,71,Diabetes,1,5,Sim,Não
+P02211,38,Hipertensão,5,4,Sim,Não
+P02212,55,Hipertensão,2,1,Sim,Não
+P02213,63,Insuficiência Cardíaca,3,2,Não,Não
+P02214,21,Diabetes,3,3,Sim,Não
+P02215,77,Diabetes,4,5,Sim,Sim
+P02216,74,Diabetes,3,4,Sim,Sim
+P02217,62,Insuficiência Cardíaca,4,3,Não,Não
+P02218,37,Hipertensão,3,2,Sim,Não
+P02219,34,Hipertensão,7,1,Sim,Não
+P02220,88,Insuficiência Cardíaca,3,4,Sim,Não
+P02221,21,Hipertensão,3,7,Não,Não
+P02222,31,Hipertensão,1,5,Sim,Não
+P02223,20,Diabetes,3,5,Sim,Sim
+P02224,75,Hipertensão,2,7,Sim,Não
+P02225,72,Hipertensão,5,2,Sim,Não
+P02226,21,Hipertensão,6,5,Sim,Não
+P02227,41,Insuficiência Cardíaca,4,5,Sim,Sim
+P02228,51,Insuficiência Cardíaca,4,3,Sim,Não
+P02229,47,Hipertensão,2,3,Sim,Não
+P02230,36,Hipertensão,3,5,Sim,Não
+P02231,48,Hipertensão,5,3,Não,Sim
+P02232,77,Diabetes,2,3,Sim,Não
+P02233,77,Diabetes,3,1,Não,Não
+P02234,36,Hipertensão,3,7,Sim,Não
+P02235,66,Hipertensão,3,2,Sim,Não
+P02236,80,Diabetes,4,5,Sim,Não
+P02237,39,Insuficiência Cardíaca,3,9,Sim,Não
+P02238,41,Diabetes,0,5,Sim,Não
+P02239,47,Diabetes,3,6,Sim,Não
+P02240,75,Hipertensão,2,6,Sim,Sim
+P02241,48,Diabetes,6,1,Sim,Não
+P02242,81,Diabetes,1,3,Não,Sim
+P02243,36,Diabetes,2,7,Sim,Não
+P02244,65,Hipertensão,2,4,Sim,Sim
+P02245,62,Diabetes,1,4,Sim,Não
+P02246,72,Hipertensão,4,2,Sim,Não
+P02247,72,Hipertensão,5,3,Não,Não
+P02248,35,Diabetes,2,3,Sim,Não
+P02249,80,Insuficiência Cardíaca,4,4,Sim,Sim
+P02250,64,Diabetes,4,5,Não,Não
+P02251,74,Insuficiência Cardíaca,3,0,Sim,Sim
+P02252,62,Hipertensão,4,3,Sim,Não
+P02253,50,Insuficiência Cardíaca,2,4,Não,Sim
+P02254,34,Diabetes,2,3,Sim,Não
+P02255,87,Hipertensão,3,2,Sim,Não
+P02256,21,Diabetes,3,9,Sim,Sim
+P02257,37,Diabetes,2,4,Não,Sim
+P02258,64,Hipertensão,2,4,Sim,Não
+P02259,32,Diabetes,6,5,Sim,Não
+P02260,87,Hipertensão,2,2,Sim,Não
+P02261,64,Diabetes,4,5,Sim,Sim
+P02262,26,Diabetes,2,5,Sim,Não
+P02263,33,Hipertensão,4,2,Sim,Não
+P02264,86,Diabetes,3,3,Sim,Sim
+P02265,78,Hipertensão,0,2,Sim,Não
+P02266,27,Hipertensão,4,8,Sim,Não
+P02267,67,Hipertensão,2,8,Sim,Sim
+P02268,20,Diabetes,2,3,Não,Não
+P02269,87,Hipertensão,3,3,Sim,Sim
+P02270,68,Insuficiência Cardíaca,6,5,Sim,Sim
+P02271,36,Hipertensão,5,8,Sim,Não
+P02272,59,Hipertensão,5,5,Sim,Sim
+P02273,52,Hipertensão,0,2,Sim,Não
+P02274,63,Hipertensão,4,4,Sim,Não
+P02275,43,Hipertensão,4,3,Sim,Não
+P02276,86,Diabetes,3,4,Sim,Sim
+P02277,81,Diabetes,4,8,Não,Não
+P02278,54,Hipertensão,2,3,Sim,Não
+P02279,66,Diabetes,2,0,Sim,Não
+P02280,38,Hipertensão,1,3,Sim,Não
+P02281,81,Diabetes,5,2,Sim,Não
+P02282,22,Hipertensão,2,4,Não,Não
+P02283,87,Diabetes,0,6,Não,Não
+P02284,21,Diabetes,3,4,Sim,Não
+P02285,56,Insuficiência Cardíaca,3,5,Sim,Não
+P02286,52,Insuficiência Cardíaca,4,4,Sim,Não
+P02287,18,Hipertensão,2,3,Não,Não
+P02288,41,Hipertensão,4,6,Sim,Não
+P02289,74,Hipertensão,4,6,Sim,Sim
+P02290,87,Hipertensão,0,6,Sim,Não
+P02291,58,Hipertensão,1,3,Sim,Não
+P02292,71,Diabetes,4,4,Sim,Sim
+P02293,63,Hipertensão,1,2,Sim,Não
+P02294,77,Hipertensão,3,1,Sim,Não
+P02295,77,Insuficiência Cardíaca,2,5,Sim,Não
+P02296,74,Diabetes,3,5,Sim,Sim
+P02297,48,Hipertensão,0,4,Sim,Não
+P02298,41,Hipertensão,0,5,Não,Não
+P02299,53,Diabetes,4,3,Sim,Não
+P02300,47,Diabetes,1,2,Sim,Não
+P02301,41,Diabetes,2,3,Sim,Não
+P02302,47,Diabetes,1,7,Sim,Não
+P02303,24,Diabetes,5,3,Sim,Não
+P02304,52,Hipertensão,1,12,Sim,Não
+P02305,72,Hipertensão,3,4,Sim,Sim
+P02306,31,Hipertensão,2,6,Sim,Não
+P02307,27,Insuficiência Cardíaca,3,1,Sim,Sim
+P02308,33,Diabetes,1,5,Sim,Sim
+P02309,71,Diabetes,5,6,Sim,Não
+P02310,87,Hipertensão,1,4,Sim,Não
+P02311,61,Diabetes,3,5,Sim,Sim
+P02312,90,Diabetes,4,2,Sim,Não
+P02313,62,Diabetes,4,5,Não,Sim
+P02314,73,Diabetes,1,4,Sim,Não
+P02315,74,Hipertensão,4,2,Sim,Não
+P02316,38,Diabetes,1,1,Não,Sim
+P02317,85,Hipertensão,2,6,Sim,Sim
+P02318,67,Diabetes,3,5,Não,Não
+P02319,50,Hipertensão,5,8,Sim,Não
+P02320,24,Diabetes,3,4,Sim,Não
+P02321,87,Hipertensão,5,5,Sim,Não
+P02322,32,Diabetes,1,5,Não,Não
+P02323,49,Diabetes,2,0,Sim,Não
+P02324,37,Hipertensão,2,3,Sim,Não
+P02325,32,Diabetes,4,4,Sim,Não
+P02326,65,Diabetes,1,5,Sim,Não
+P02327,88,Diabetes,2,3,Não,Sim
+P02328,38,Insuficiência Cardíaca,1,4,Sim,Não
+P02329,59,Diabetes,2,6,Sim,Não
+P02330,43,Hipertensão,4,7,Sim,Não
+P02331,31,Diabetes,1,3,Sim,Não
+P02332,74,Diabetes,8,2,Sim,Sim
+P02333,54,Diabetes,6,0,Sim,Não
+P02334,75,Insuficiência Cardíaca,4,6,Sim,Sim
+P02335,38,Diabetes,4,8,Não,Sim
+P02336,86,Diabetes,2,5,Sim,Não
+P02337,20,Diabetes,3,6,Não,Sim
+P02338,54,Diabetes,5,2,Não,Não
+P02339,66,Diabetes,3,4,Sim,Não
+P02340,36,Hipertensão,3,3,Não,Não
+P02341,29,Diabetes,1,4,Sim,Não
+P02342,78,Diabetes,3,3,Não,Não
+P02343,58,Hipertensão,3,1,Sim,Não
+P02344,50,Diabetes,3,3,Não,Sim
+P02345,67,Diabetes,3,6,Sim,Não
+P02346,85,Diabetes,2,1,Não,Não
+P02347,88,Hipertensão,3,3,Não,Sim
+P02348,50,Diabetes,3,9,Sim,Não
+P02349,41,Hipertensão,5,3,Sim,Não
+P02350,78,Diabetes,1,2,Não,Não
+P02351,78,Hipertensão,3,5,Sim,Sim
+P02352,45,Diabetes,5,5,Sim,Não
+P02353,75,Hipertensão,2,6,Sim,Sim
+P02354,60,Hipertensão,2,2,Sim,Sim
+P02355,58,Hipertensão,2,5,Sim,Não
+P02356,56,Diabetes,3,1,Sim,Não
+P02357,66,Diabetes,1,5,Sim,Não
+P02358,34,Diabetes,2,4,Sim,Não
+P02359,87,Diabetes,1,4,Sim,Não
+P02360,87,Diabetes,2,3,Sim,Não
+P02361,82,Hipertensão,2,3,Sim,Não
+P02362,22,Diabetes,2,3,Sim,Sim
+P02363,19,Diabetes,3,3,Sim,Não
+P02364,39,Hipertensão,2,1,Não,Não
+P02365,74,Hipertensão,1,8,Sim,Sim
+P02366,83,Diabetes,4,5,Sim,Não
+P02367,33,Hipertensão,3,8,Sim,Não
+P02368,68,Diabetes,3,4,Sim,Não
+P02369,56,Hipertensão,1,3,Sim,Não
+P02370,57,Hipertensão,7,1,Não,Sim
+P02371,55,Hipertensão,5,5,Sim,Sim
+P02372,77,Hipertensão,1,1,Sim,Não
+P02373,76,Diabetes,5,6,Não,Sim
+P02374,27,Diabetes,3,7,Sim,Não
+P02375,81,Hipertensão,7,3,Não,Sim
+P02376,80,Diabetes,2,4,Não,Não
+P02377,66,Insuficiência Cardíaca,2,8,Não,Não
+P02378,81,Diabetes,2,5,Não,Sim
+P02379,49,Diabetes,3,3,Sim,Sim
+P02380,24,Diabetes,3,5,Sim,Não
+P02381,38,Diabetes,2,7,Sim,Não
+P02382,37,Hipertensão,2,5,Não,Sim
+P02383,43,Hipertensão,1,2,Sim,Não
+P02384,85,Hipertensão,4,3,Sim,Sim
+P02385,32,Hipertensão,8,5,Não,Não
+P02386,31,Insuficiência Cardíaca,5,2,Sim,Não
+P02387,44,Hipertensão,3,4,Sim,Não
+P02388,57,Diabetes,4,5,Não,Não
+P02389,75,Hipertensão,3,5,Sim,Não
+P02390,45,Diabetes,3,1,Sim,Não
+P02391,43,Diabetes,5,1,Sim,Não
+P02392,80,Hipertensão,4,6,Sim,Não
+P02393,83,Diabetes,3,3,Sim,Não
+P02394,42,Diabetes,1,7,Sim,Sim
+P02395,20,Diabetes,3,4,Sim,Não
+P02396,89,Diabetes,6,6,Sim,Sim
+P02397,61,Insuficiência Cardíaca,2,3,Sim,Não
+P02398,59,Diabetes,1,1,Sim,Sim
+P02399,23,Diabetes,3,4,Sim,Não
+P02400,56,Diabetes,4,3,Sim,Não
+P02401,69,Diabetes,2,2,Sim,Sim
+P02402,40,Insuficiência Cardíaca,1,6,Sim,Não
+P02403,67,Diabetes,3,4,Não,Sim
+P02404,60,Hipertensão,2,2,Não,Não
+P02405,36,Hipertensão,7,5,Sim,Não
+P02406,86,Insuficiência Cardíaca,3,10,Sim,Sim
+P02407,68,Hipertensão,3,5,Sim,Não
+P02408,28,Hipertensão,6,4,Não,Sim
+P02409,29,Diabetes,5,6,Sim,Não
+P02410,25,Diabetes,5,1,Não,Não
+P02411,41,Diabetes,5,2,Sim,Sim
+P02412,58,Insuficiência Cardíaca,7,2,Sim,Sim
+P02413,53,Diabetes,1,6,Sim,Não
+P02414,89,Diabetes,4,5,Sim,Não
+P02415,72,Diabetes,0,4,Sim,Sim
+P02416,26,Diabetes,4,3,Sim,Sim
+P02417,64,Diabetes,6,5,Sim,Sim
+P02418,32,Insuficiência Cardíaca,2,0,Sim,Sim
+P02419,65,Diabetes,2,4,Sim,Não
+P02420,59,Hipertensão,3,4,Sim,Sim
+P02421,77,Hipertensão,2,4,Não,Não
+P02422,87,Diabetes,7,3,Não,Sim
+P02423,29,Diabetes,2,4,Sim,Não
+P02424,19,Diabetes,4,4,Não,Não
+P02425,24,Diabetes,3,5,Não,Não
+P02426,20,Hipertensão,2,0,Sim,Não
+P02427,20,Diabetes,3,7,Não,Não
+P02428,44,Diabetes,2,5,Sim,Não
+P02429,57,Hipertensão,1,3,Sim,Não
+P02430,50,Insuficiência Cardíaca,3,2,Sim,Sim
+P02431,18,Hipertensão,3,2,Não,Não
+P02432,25,Hipertensão,0,8,Não,Sim
+P02433,49,Hipertensão,2,9,Sim,Não
+P02434,65,Diabetes,3,1,Sim,Não
+P02435,21,Hipertensão,1,3,Não,Sim
+P02436,87,Diabetes,2,5,Não,Não
+P02437,36,Hipertensão,5,5,Sim,Não
+P02438,49,Hipertensão,4,4,Não,Não
+P02439,26,Diabetes,2,5,Sim,Não
+P02440,29,Hipertensão,3,3,Sim,Sim
+P02441,28,Insuficiência Cardíaca,2,2,Sim,Não
+P02442,63,Diabetes,2,6,Sim,Não
+P02443,33,Hipertensão,6,7,Sim,Não
+P02444,18,Diabetes,2,6,Sim,Não
+P02445,80,Hipertensão,3,3,Sim,Não
+P02446,38,Hipertensão,2,5,Sim,Não
+P02447,47,Hipertensão,3,5,Não,Não
+P02448,30,Insuficiência Cardíaca,4,4,Não,Sim
+P02449,51,Insuficiência Cardíaca,1,4,Não,Não
+P02450,21,Hipertensão,2,4,Sim,Não
+P02451,45,Diabetes,6,6,Sim,Sim
+P02452,76,Insuficiência Cardíaca,1,5,Sim,Não
+P02453,44,Diabetes,1,7,Sim,Sim
+P02454,86,Insuficiência Cardíaca,3,1,Não,Sim
+P02455,42,Diabetes,3,5,Sim,Sim
+P02456,20,Diabetes,1,6,Não,Sim
+P02457,85,Hipertensão,2,8,Sim,Não
+P02458,42,Diabetes,2,7,Sim,Não
+P02459,37,Diabetes,3,4,Sim,Não
+P02460,51,Diabetes,4,6,Não,Sim
+P02461,43,Diabetes,2,5,Sim,Não
+P02462,22,Diabetes,4,3,Sim,Não
+P02463,78,Diabetes,4,6,Sim,Sim
+P02464,26,Diabetes,4,12,Não,Sim
+P02465,67,Diabetes,5,2,Sim,Não
+P02466,23,Hipertensão,4,3,Sim,Não
+P02467,77,Diabetes,5,6,Sim,Sim
+P02468,61,Insuficiência Cardíaca,2,3,Não,Não
+P02469,28,Insuficiência Cardíaca,2,2,Sim,Não
+P02470,83,Diabetes,5,7,Não,Sim
+P02471,64,Hipertensão,1,2,Sim,Não
+P02472,90,Hipertensão,1,7,Sim,Não
+P02473,20,Insuficiência Cardíaca,1,5,Sim,Não
+P02474,47,Hipertensão,3,1,Sim,Não
+P02475,38,Diabetes,2,2,Sim,Não
+P02476,45,Hipertensão,6,4,Não,Não
+P02477,79,Hipertensão,1,5,Sim,Não
+P02478,50,Hipertensão,1,6,Sim,Não
+P02479,52,Diabetes,2,5,Sim,Sim
+P02480,69,Insuficiência Cardíaca,3,5,Sim,Não
+P02481,51,Insuficiência Cardíaca,3,5,Sim,Sim
+P02482,58,Diabetes,3,5,Sim,Não
+P02483,68,Diabetes,0,4,Sim,Não
+P02484,64,Diabetes,3,4,Sim,Não
+P02485,75,Hipertensão,3,3,Sim,Não
+P02486,74,Hipertensão,1,4,Não,Não
+P02487,40,Hipertensão,1,3,Sim,Não
+P02488,65,Diabetes,2,2,Sim,Não
+P02489,39,Hipertensão,4,1,Sim,Não
+P02490,34,Diabetes,4,3,Sim,Não
+P02491,86,Hipertensão,5,3,Sim,Não
+P02492,28,Hipertensão,4,6,Sim,Não
+P02493,32,Insuficiência Cardíaca,3,4,Sim,Sim
+P02494,52,Insuficiência Cardíaca,0,2,Sim,Não
+P02495,50,Insuficiência Cardíaca,3,2,Sim,Sim
+P02496,33,Diabetes,4,1,Sim,Não
+P02497,51,Hipertensão,3,3,Sim,Não
+P02498,83,Hipertensão,3,4,Não,Sim
+P02499,57,Insuficiência Cardíaca,1,5,Sim,Não
+P02500,45,Diabetes,3,4,Não,Não
